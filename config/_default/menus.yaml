@@ -22,9 +22,9 @@ main:
   - name: Publications
     url: publication
     weight: 60
-#  - name: Collaborators
-#    url: collaborator
-#    weight: 70
+  - name: Collaborators
+    url: collaborator
+    weight: 70
 #  - name: Services
 #    url: services
 #    weight: 80    
