@@ -71,4 +71,4 @@ user_groups:
   - Grad Students
 ---
 
-In November 2022, I became a PhD student in the **Somex Lab** under the supervision of **[Prof. Roberto Cerbino](https://mohan8488.github.io/group-website-test/author/roberto-cerbino/)**. My research project centers on mechanobiology, focusing on the mechanical behavior of cell tissues. This project encompasses the study of normal tissues, pharmacologically treated tissues, and mutant tissues in both two and three dimensions. The goal is to characterize their mechanical properties while observing microscopic-scale events.
+In November 2022, I became a PhD student in the **Somex Lab** under the supervision of **[Prof. Roberto Cerbino]({{< relref "/authors/admin/_index.md" >}})**. My research project centers on mechanobiology, focusing on the mechanical behavior of cell tissues. This project encompasses the study of normal tissues, pharmacologically treated tissues, and mutant tissues in both two and three dimensions. The goal is to characterize their mechanical properties while observing microscopic-scale events.

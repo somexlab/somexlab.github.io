@@ -76,7 +76,7 @@ user_groups:
   - Researchers
 ---
 
-I am a Lise Meitner postdoc research fellow working in the Group of Roberto Cerbino at the Faculty of Physics of the University of Vienna. My research interests include the investigation of the structure and dynamics of complex colloidal suspensions using advanced optical techniques and the development of high-performance codes for experiments analysis (using Python and C++/CUDA).
+I am a Lise Meitner postdoc research fellow working in the Group of **[Prof. Roberto Cerbino]({{< relref "/authors/admin/_index.md" >}})** at the Faculty of Physics of the University of Vienna. My research interests include the investigation of the structure and dynamics of complex colloidal suspensions using advanced optical techniques and the development of high-performance codes for experiments analysis (using Python and C++/CUDA).
 
 My doctoral work focused on the experimental study of the (natural and forced) sedimentation of particle suspensions and colloidal gels. My investigation of the settling velocity in colloidal suspensions provided the first experimental proof of the promoted sedimentation in suspensions with strong attractive interactions. The results obtained also helped to interpret the behavior of protein suspensions and the analysis of analytical ultracentrifugation data in a new light. As a side project, I also investigated the thermophoresis of amphiphilic block copolymers around the micellization temperature.
 
