@@ -25,9 +25,9 @@ main:
   - name: Collaborators
     url: collaborator
     weight: 70
-#  - name: Services
-#    url: services
-#    weight: 80    
+  - name: Services
+    url: services
+    weight: 80    
   - name: Contact
     url: contact
     weight: 90
