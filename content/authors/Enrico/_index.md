@@ -65,7 +65,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: files/cv/cv_Enrico_Lattuada.pdf
+    link: 'https://enrico-lattuada.com/cv/resume.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
