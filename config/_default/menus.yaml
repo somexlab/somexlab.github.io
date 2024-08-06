@@ -16,9 +16,18 @@ main:
   - name: Events
     url: event
     weight: 40
+#  - name: Projects
+#    url: '#projects'
+#    weight: 50
   - name: Publications
     url: publication
-    weight: 50
+    weight: 60
+#  - name: Collaborators
+#    url: collaborator
+#    weight: 70
+#  - name: Services
+#    url: services
+#    weight: 80    
   - name: Contact
     url: contact
-    weight: 60
+    weight: 90
