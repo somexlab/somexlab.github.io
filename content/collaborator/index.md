@@ -40,6 +40,9 @@ sections:
         | [Francesco Sciortino](https://www.roma1.infn.it/~sciortif/curriculum.htm) | Department of Physics, University of Rome La Sapienza (Italy) | --- |
         | [George Petekidis](https://www.iesl.forth.gr/en/people/petekidis-george) | Department of Material Science and Technology, University of Crete (Greece) | --- |
         | [Philippe Coussot](https://philippecoussot.com/) | ENPC-University Gustave Eiffel-CNRS (France) | --- |
+        | [Thomas Gibaud](https://perso.ens-lyon.fr/thomas.gibaud/) | Ecole Normale Supérieure de Lyon (France) | --- |
+        | [Frederic Pignon](https://sites.google.com/site/fredericpignon) | Université Grenoble Alpes, CNRS (France) | --- |
+        | [Stefano Aime](https://sites.google.com/view/steaime/home?authuser=0) | ESPCI Paris (France) | --- |
     design:
       columns: '1'
   - block: markdown
