@@ -85,21 +85,21 @@ sections:
           icon_pack: fas
           text: Request
           url: ../contact/
-      - title: Dynamic Light Scattering💡
-        content: 'With our state-of-the-art equipment and expert guidance, you will gain unprecedented insights into the size, distribution, and dynamics of particles and molecules in solution. From characterizing nanoparticles to studying protein aggregation, DLS offers non-invasive, rapid analysis for a wide range of applications. Schedule a session today and discover the potential of DLS to drive your research forward.'
-        align: left
-        background:
-          image:
-            filename: scattering.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#222'
-        link:
-          icon: hand-point-up
-          icon_pack: fas
-          text: Request
-          url: ../contact/
+      #- title: Dynamic Light Scattering💡
+      #  content: 'With our state-of-the-art equipment and expert guidance, you will gain unprecedented insights into the size, distribution, and dynamics of particles and molecules in solution. From characterizing nanoparticles to studying protein aggregation, DLS offers non-invasive, rapid analysis for a wide range of applications. Schedule a session today and discover the potential of DLS to drive your research forward.'
+      #  align: left
+      #  background:
+      #    image:
+      #      filename: scattering.jpg
+      #      filters:
+      #        brightness: 0.7
+      #    position: center
+      #    color: '#222'
+      #  link:
+      #    icon: hand-point-up
+      #    icon_pack: fas
+      #    text: Request
+      #    url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
