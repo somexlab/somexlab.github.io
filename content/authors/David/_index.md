@@ -63,7 +63,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Visitors
 ---
 
 I'm a Physics Master Student at the University of Vienna and I'm writing my Master's thesis with a focus on the interplay of structure and dynamics in cellular monolayers. In my thesis I explore various perspectives from real space analysis (tracking, PIV, Cytometry (segmentation  of fluorescent nuclei, Voronoi tessellation)) and Fourier space analysis (DDM, static structure factor) to characterise these interplays.

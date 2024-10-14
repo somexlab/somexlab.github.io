@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:enrico.lattuada@univie.ac.at'
+    link: 'mailto:lattuada.enrico@gmail.com'
   #- icon: twitter
     #icon_pack: fab
     #link: https://twitter.com/cerbino
@@ -73,7 +73,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
 
 I am a Lise Meitner postdoc research fellow working in the Group of **[Prof. Roberto Cerbino]({{< relref "/authors/admin/_index.md" >}})** at the Faculty of Physics of the University of Vienna. My research interests include the investigation of the structure and dynamics of complex colloidal suspensions using advanced optical techniques and the development of high-performance codes for experiments analysis (using Python and C++/CUDA).
