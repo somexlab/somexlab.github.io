@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Welcome to **S**oft **M**atter **EX**periments Lab
+        Welcome to the ***So**ft **M**atter **Ex**periments* Lab
       image:
         filename: welcome.gif
       text: |
