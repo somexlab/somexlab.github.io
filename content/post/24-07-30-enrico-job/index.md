@@ -2,7 +2,7 @@
 title: Enrico - Congratulations on your new job!
 summary: You're now a Scientific Python Developer.
 authors:
-  - Mohandas
+#  - Mohandas
 date: 2024-07-30
 image:
   focal_point: 'center'

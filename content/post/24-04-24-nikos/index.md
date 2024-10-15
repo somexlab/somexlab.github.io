@@ -2,7 +2,7 @@
 title: Birra E Scienza by N. Kalafatakis
 summary: PhD student Nikolaos Kalafatakis shared his knowledge on use of rheology to understand soft materials with general public.
 authors:
-  - Mohandas
+#  - Mohandas
 date: 2024-04-24
 image:
   focal_point: 'top'

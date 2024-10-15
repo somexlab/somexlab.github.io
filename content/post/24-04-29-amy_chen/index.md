@@ -3,7 +3,7 @@ title: Talk by Prof. Amy Q. Chen
 
 summary: Amy Shen is a professor at the Okinawa Institute of Science and Technology Graduate University (OIST) in Japan, where she has led the Micro/Bio/Nanofluidics Unit since 2014. 
 authors:
-  - Mohandas
+#  - Mohandas
 date: 2024-04-29T16:00:00Z
 image:
   focal_point: 'top'

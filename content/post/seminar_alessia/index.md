@@ -2,7 +2,7 @@
 title: Seminar - Viscoelastic matrices for storage and transport of green fuels
 summary: Visiting PhD student Alessia De Cataldo shares the latest results from her research work in Somex Lab.
 authors:
-  - Mohandas
+#  - Mohandas
 date: 2024-05-14
 image:
   focal_point: 'top'
