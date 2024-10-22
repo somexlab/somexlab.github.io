@@ -76,9 +76,11 @@ user_groups:
   - Alumni
 ---
 
-I am a Lise Meitner postdoc research fellow working in the Group of **[Prof. Roberto Cerbino]({{< relref "/authors/admin/_index.md" >}})** at the Faculty of Physics of the University of Vienna. My research interests include the investigation of the structure and dynamics of complex colloidal suspensions using advanced optical techniques and the development of high-performance codes for experiments analysis (using Python and C++/CUDA).
+I was a *Lise Meitner postdoc research fellow* working in the Group of **[Roberto]({{< relref "/authors/admin/_index.md" >}})** from 2022-2024. My research interests include the investigation of the structure and dynamics of complex colloidal suspensions using advanced optical techniques and the development of high-performance codes for experiments analysis (using Python and C++/CUDA).
 
 My doctoral work focused on the experimental study of the (natural and forced) sedimentation of particle suspensions and colloidal gels. My investigation of the settling velocity in colloidal suspensions provided the first experimental proof of the promoted sedimentation in suspensions with strong attractive interactions. The results obtained also helped to interpret the behavior of protein suspensions and the analysis of analytical ultracentrifugation data in a new light. As a side project, I also investigated the thermophoresis of amphiphilic block copolymers around the micellization temperature.
 
 During my first postdoc, in Rome, I studied the peculiar dynamic properties of equilibrium gels consisting of DNA nanostars – particles with multiple arms departing from a common central junction – interacting through sticky tips on the arms. The results showed that equilibrium gels are homogeneous in space, unlike standard gels, which form heterogeneous networks.
+
+Since September 2024, I've been working as a Scientific Python Developer at [Zuru](https://zuru.tech/).
 

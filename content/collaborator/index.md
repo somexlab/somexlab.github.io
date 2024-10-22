@@ -35,14 +35,15 @@ sections:
         | Name   | Current affiliation | Project |
         |:----------:|:-------------:|:-------------:|
         | [Véronique Trappe](https://www.unifr.ch/phys/en/research/scheffold/group-members/people/18428/19670) | Department of Physics, University of Fribourg (Switzerland) | --- |
-        | [Fabio Giavazzi](https://www.unimi.it/en/ugov/person/fabio-giavazzi) | Department of Medical Biotechnology and Translational Medicine, University of Milan (Italy) | --- |
+        | [Fabio Giavazzi](https://www.unimi.it/en/ugov/person/fabio-giavazzi) | Department of Medical Biotechnology and Translational Medicine, University of Milan (Italy) | [GTACS]({{< relref "/project/22-01-01-GTACS/_index.md" >}}), [NEUF-DIX]({{< relref "/project/22-01-01-giant-fluctuations/_index.md" >}}) |
         | [Giorgio Scita](https://www.ifom.eu/en/cancer-research/researchers/giorgio-scita.php) | Faculty of Medicine, University of Milan (Italy) | --- |
         | [Francesco Sciortino](https://www.roma1.infn.it/~sciortif/curriculum.htm) | Department of Physics, University of Rome La Sapienza (Italy) | --- |
-        | [George Petekidis](https://www.iesl.forth.gr/en/people/petekidis-george) | Department of Material Science and Technology, University of Crete (Greece) | --- |
+        | [George Petekidis](https://www.iesl.forth.gr/en/people/petekidis-george) | Department of Material Science and Technology, University of Crete (Greece) | [FORGreenSoft]({{< relref "/project/Forgreensoft/_index.md" >}}) |
         | [Philippe Coussot](https://philippecoussot.com/) | ENPC-University Gustave Eiffel-CNRS (France) | --- |
-        | [Thomas Gibaud](https://perso.ens-lyon.fr/thomas.gibaud/) | Ecole Normale Supérieure de Lyon (France) | --- |
-        | [Frederic Pignon](https://sites.google.com/site/fredericpignon) | Université Grenoble Alpes, CNRS (France) | --- |
-        | [Stefano Aime](https://sites.google.com/view/steaime/home?authuser=0) | ESPCI Paris (France) | --- |
+        | [Thomas Gibaud](https://perso.ens-lyon.fr/thomas.gibaud/) | Ecole Normale Supérieure de Lyon (France) | [TRAINGEL]({{< relref "/project/24-01-01-TRAINGEL/_index.md" >}}) |
+        | [Frederic Pignon](https://sites.google.com/site/fredericpignon) | Université Grenoble Alpes, CNRS (France) | [TRAINGEL]({{< relref "/project/24-01-01-TRAINGEL/_index.md" >}}) |
+        | [Stefano Aime](https://sites.google.com/view/steaime/home?authuser=0) | ESPCI Paris (France) | [TRAINGEL]({{< relref "/project/24-01-01-TRAINGEL/_index.md" >}}) |
+        | [Christos Likos](https://comp-phys.univie.ac.at/likos/) | University of Vienna (Austria) | [TRAINGEL]({{< relref "/project/24-01-01-TRAINGEL/_index.md" >}}) |
     design:
       columns: '1'
   - block: markdown

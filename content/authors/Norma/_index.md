@@ -73,7 +73,7 @@ user_groups:
   - Visitors
 ---
 
-I worked with **[Prof. Roberto Cerbino]({{< relref "/authors/admin/_index.md" >}})** in the year 2022-2023 as a visiting scholar. My work involved building an experimental setup for holographic optical tweezers. Utilizing this setup, I did experiments with the goal of measuring Casimir-like forces in systems that are not in thermodynamic equilibrium. Our preliminary results showed what seemed to be the first experimental evidence of such forces in non-equilibrium systems.
+I worked with **[Roberto]({{< relref "/authors/admin/_index.md" >}})** in the year 2022-2023 as a visiting scholar. My work involved building an experimental setup for holographic optical tweezers. Utilizing this setup, I did experiments with the goal of measuring Casimir-like forces in systems that are not in thermodynamic equilibrium. Our preliminary results showed what seemed to be the first experimental evidence of such forces in non-equilibrium systems.
 
 Additionally, I have investigated the formation of aggregates in systems with competitive interactions, such as those found in certain proteins, by developing Brownian dynamics simulations. 
 
