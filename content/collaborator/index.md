@@ -1,6 +1,6 @@
 ---
 title: People
-date: 2022-10-24
+date: 2024-04-10
 
 type: landing
 
@@ -54,7 +54,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: map-edit_3.jpg
+          filename: map.png
           filters:
             brightness: 1
           parallax: false

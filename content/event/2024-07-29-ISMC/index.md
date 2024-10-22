@@ -1,42 +1,42 @@
 ---
-title: 2nd Short Course - FORgreensoft
+title: "The 8th International Soft Matter Conference"
 
-event: Short Course
-event_url: https://forgreensoft.gr/?p=4520
+event: International Soft Matter Conference
+event_url: https://soft-matter.com/ismc2024/
 
-location: FORTH
+location: Raleigh Convention Center
 
 address:
-  street: Ν. Plastira 100, Vassilika Vouton
-  city: Heraklion
-  region: Crete
-  postcode: '70013'
-  country: Greece
+  street: 500 South Salisbury Street
+  city: Raleigh
+  region: NC
+  postcode: '27601'
+  country: USA
 
-summary: FORgreensoft meeting.
-abstract:  'This short course will focus on Bulk and Surface Microscopy Techniques for Soft Matter. Lectures will be given by Prof. Giovanni Volpe (GU, Sweden), Prof. Roberto Cerbino (UNIVIE, Austria), Prof. Nonappa Nonappa (TU, Finland), Dr. Michael Kappl (MPG-P, Germany), Prof. Vasileios Koutsos (UE, UK) and Prof. Hans-Jürgen Butt(MPG-P, Germany). The focus of this short  course is, as laid out the in the title, on bulk and surface microscopy techniques for Soft Matter. It includes lectures about optical tweezers, 3D-Electron microscopy and more.'
+summary: Soft Matter Conference 
+abstract:  'This conference is organized jointly by the **Soft Matter Association of the Americas** and by the **Triangle Universities** – Duke University (Duke), North Carolina State University (NCSU), and the University of North Carolina at Chapel Hill (UNC). It is supported by the International Union of Pure and Applied Physics (IUPAP), the National Science Foundation, and many other organizations. This is the first ISMC on the American continent, and as such, it concludes the first cycle of the Soft Matter around the World in Three Years series of ISMCs.<br>The conference aims to bring together researchers from physics, chemistry, biology, chemical engineering, and materials science interested in various soft matter systems. We hope the conference will promote and intensify interdisciplinary collaborations and advance connections between academia and industry around soft matter technologies.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-19T13:30:00Z'
-date_end: '2024-05-21T14:00:00Z'
+date: '2024-07-29T09:00:00Z'
+date_end: '2024-08-02T12:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-05-07T00:00:00Z'
+publishDate: '2024-06-15T00:00:00Z'
 
-authors: [admin, Jasmin, Nikos]
+authors: [admin]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Forgreensoft**](https://forgreensoft.gr/)'
+  caption: 'Image credit: [ISMC 2024](https://soft-matter.com/ismc2024/)'
   focal_point: Right
 
 url_code: ''
-url_pdf: 'https://forgreensoft.gr/wp-content/uploads/2024/03/SecondShortCourse2024c.pdf'
+url_pdf: "files/post/ISMC_2024.pdf"
 url_slides: ''
 url_video: ''
 
@@ -53,8 +53,7 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 #projects:
-#
-#
+
 #Slides can be added in a few ways:
 #
 #- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file

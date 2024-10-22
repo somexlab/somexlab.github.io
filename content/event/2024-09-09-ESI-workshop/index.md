@@ -1,42 +1,42 @@
 ---
-title: 2nd Short Course - FORgreensoft
+title: "Failure in Soft Materials - from Yielding to Fracture"
 
-event: Short Course
-event_url: https://forgreensoft.gr/?p=4520
+event: ESI Thematic Programme
+event_url: https://www.cecam.org/workshop-details/failure-in-soft-materials-from-yielding-to-fracture-1298
 
-location: FORTH
+location: ESI Boltzmann Lecture Hall
 
 address:
-  street: Ν. Plastira 100, Vassilika Vouton
-  city: Heraklion
-  region: Crete
-  postcode: '70013'
-  country: Greece
+  street: Boltzmanngasse 9A
+  city: Vienna
+  region: AT
+  postcode: '1090'
+  country: Austria
 
-summary: FORgreensoft meeting.
-abstract:  'This short course will focus on Bulk and Surface Microscopy Techniques for Soft Matter. Lectures will be given by Prof. Giovanni Volpe (GU, Sweden), Prof. Roberto Cerbino (UNIVIE, Austria), Prof. Nonappa Nonappa (TU, Finland), Dr. Michael Kappl (MPG-P, Germany), Prof. Vasileios Koutsos (UE, UK) and Prof. Hans-Jürgen Butt(MPG-P, Germany). The focus of this short  course is, as laid out the in the title, on bulk and surface microscopy techniques for Soft Matter. It includes lectures about optical tweezers, 3D-Electron microscopy and more.'
+summary: Flagship Workshop organized as part of ESI Thematic Program 
+abstract:  'The objective of the workshop is to bring together various communities that heavily rely on universal concepts like mechanical response and failure. There are numerous unresolved questions and ideas that can encourage a fruitful exchange of knowledge between these communities. Consistent with the [CECAM](https://www.cecam.org/) tradition, computer simulations are of utmost importance in these fields, serving as both a guiding tool for experiments and a modeling resource when theoretical approaches fall short. Furthermore, in the forthcoming years, the emerging AI/ML paradigm will significantly influence all fields of physics. By inviting experts in this domain, we aim to facilitate an open and comprehensive discussion regarding the impact of such paradigm on the workshops research themes.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-19T13:30:00Z'
-date_end: '2024-05-21T14:00:00Z'
+date: '2024-09-09T09:00:00Z'
+date_end: '2024-09-13T16:45:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-05-07T00:00:00Z'
+publishDate: '2024-07-25T00:00:00Z'
 
-authors: [admin, Jasmin, Nikos]
+authors: [admin]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Forgreensoft**](https://forgreensoft.gr/)'
+  caption: 'Image credit: [CECAM](https://www.cecam.org/)'
   focal_point: Right
 
 url_code: ''
-url_pdf: 'https://forgreensoft.gr/wp-content/uploads/2024/03/SecondShortCourse2024c.pdf'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
@@ -53,8 +53,7 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 #projects:
-#
-#
+
 #Slides can be added in a few ways:
 #
 #- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
