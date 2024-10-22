@@ -69,4 +69,4 @@ user_groups:
   - Alumni
 ---
 
-Short description...
+

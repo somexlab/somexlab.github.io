@@ -14,9 +14,7 @@ address:
   country: Greece
 
 summary: FORgreensoft meeting.
-abstract:  'This short course will focus on Bulk and Surface Microscopy Techniques for Soft Matter. Lectures will be given by Prof. Giovanni Volpe (GU, Sweden), Prof. Roberto Cerbino (UNIVIE, Austria), Prof. Nonappa Nonappa (TU, Finland), Dr. Michael Kappl (MPG-P, Germany), Prof. Vasileios Koutsos (UE, UK) and Prof. Hans-Jürgen Butt(MPG-P, Germany).
-
-The focus of this short  course is, as laid out the in the title, on bulk and surface microscopy techniques for Soft Matter. It includes lectures about optical tweezers, 3D-Electron microscopy and more.'
+abstract:  'This short course will focus on Bulk and Surface Microscopy Techniques for Soft Matter. Lectures will be given by Prof. Giovanni Volpe (GU, Sweden), Prof. Roberto Cerbino (UNIVIE, Austria), Prof. Nonappa Nonappa (TU, Finland), Dr. Michael Kappl (MPG-P, Germany), Prof. Vasileios Koutsos (UE, UK) and Prof. Hans-Jürgen Butt(MPG-P, Germany). The focus of this short  course is, as laid out the in the title, on bulk and surface microscopy techniques for Soft Matter. It includes lectures about optical tweezers, 3D-Electron microscopy and more.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

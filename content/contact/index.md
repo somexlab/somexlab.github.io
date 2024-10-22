@@ -23,7 +23,7 @@ sections:
       coordinates:
         latitude: '48.2217'
         longitude: '16.3555'
-      directions: Enter through the gate of Boltzmanngasse 1 and call the contact number. Any of the group members will come to collect you.
+      directions: <br>1. Take the Main Entrance of the Faculty of Physics (Strudlhofgasse 4, 1090).<br> 2. After entering, take the set of stairs going up on the right side of the TV screen.<br>3. Go to the 1st floor where you'll find the bust of Emperor Franz Josef.<br>4. Enter through the doors to the left of the bust. After passing through, turn left and you'll see the last door facing the corridor. That is the entrance of the SOMEX Lab. Ring the bell when you arrive. 
       office_hours:
         - 'Monday to Friday 9:00 to 17:00'
       #  - 'Wednesday 09:00 to 10:00'

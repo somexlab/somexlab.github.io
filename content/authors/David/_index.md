@@ -22,7 +22,7 @@ organizations:
     url: 'https://comp-phys.univie.ac.at/people/master-students/#c941698'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am doing my MSc courses in Physics at the University of Vienna and currently working on Myxococcus Xanthus cultures as an internship alongside my classes. With that, I focus on motility and interesting properties of the bacteria like predation and fruiting body formation. Currently, we are working on developing ways to best image the samples to then analyse them and quantify the results.
+bio: 
 
 interests:
   - Mycococcus Xanthus
@@ -39,9 +39,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  #- icon: envelope
-  #  icon_pack: fas
-  #  link: 'mailto:jasmin.di.franco@univie.ac.at'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:david.steiner@univie.ac.at'
   #- icon: twitter
     #icon_pack: fab
     #link: https://twitter.com/NKalafatakis
@@ -66,4 +66,4 @@ user_groups:
   - Visitors
 ---
 
-I'm a Physics Master Student at the University of Vienna and I'm writing my Master's thesis with a focus on the interplay of structure and dynamics in cellular monolayers. In my thesis I explore various perspectives from real space analysis (tracking, PIV, Cytometry (segmentation  of fluorescent nuclei, Voronoi tessellation)) and Fourier space analysis (DDM, static structure factor) to characterise these interplays.
+I am doing my MSc courses in Physics at the University of Vienna and worked on Myxococcus Xanthus cultures as an internship alongside my classes. I focused on motility and interesting properties of the bacteria like predation and fruiting body formation. We worked on developing ways to best image the samples to then analyse them and quantify the results.

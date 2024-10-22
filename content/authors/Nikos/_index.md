@@ -70,4 +70,4 @@ user_groups:
   - Grad Students
 ---
 
-I am a doctoral student at the Vienna Doctoral School in Physics (VDSP) under the supervision of **[Prof. Roberto Cerbino]({{< relref "/authors/admin/_index.md" >}})**, since May 2022. I have studied Materials Science and Technology, and currently I am pursuing a Ph.D. in Physics. My doctoral research studies nonlinear dynamics of mechanically deformed soft materials, by deploying rheometry and microscopy.
+I am a doctoral student at the Vienna Doctoral School in Physics (VDSP) under the supervision of **[Roberto]({{< relref "/authors/admin/_index.md" >}})**, since May 2022. I have studied Materials Science and Technology, and currently I am pursuing a Ph.D. in Physics. My doctoral research studies nonlinear dynamics of mechanically deformed soft materials, by deploying rheometry and microscopy.
