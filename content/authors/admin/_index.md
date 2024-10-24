@@ -48,7 +48,7 @@ social:
     link: 'mailto:roberto.cerbino@univie.ac.at'
   - icon: x-twitter
     icon_pack: fab
-    link: 'https://twitter.com/cerbino'
+    link: 'https://x.com/cerbino'
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.it/citations?user=2Iq2JPIAAAAJ&hl=en'
