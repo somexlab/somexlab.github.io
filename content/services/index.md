@@ -38,7 +38,7 @@ sections:
           icon_pack: fas
           text: Request
           url: ../contact/
-      - title: Rheometry 🧴
+      - title: Rheometry 🫗
         content: |
          *Ketchup in a bottle is like life's greatest challenges, nothing happens when you need it, and then it all comes pouring out at once!* <br><br>Our latest rheometry facility allows for precise measurement and analysis of viscosity, elasticity, and flow properties across a wide range of temperatures and shear rates for complex fluids (like Ketchup!). From understanding the flow characteristics of polymer solutions and colloids to studying the rheological properties of biological fluids, our facility offers the tools and expertise to tackle diverse research challenges. Contact us to know more.
         align: left
