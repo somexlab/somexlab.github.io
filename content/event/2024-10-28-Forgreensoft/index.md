@@ -13,7 +13,7 @@ address:
   postcode: '1010'
   country: Austria
 
-summary: Flagship Workshop organized as part of ESI Thematic Program 
+summary: Forgreensoft Meeting & Workshop
 abstract:  'We are thrilled to invite you to the FORGREENSOFT Workshop on Transferable Soft Skills, Industrial Training, and Exploitation, organized by the University of Vienna in collaboration with FORTH and Euglottia, Greece. This exciting event will take place from October 28th to 31st, 2024, at the University of Vienna.<br>The workshop is tailored for early career researchers and will cover a wide range of essential topics, including management, funding opportunities, scientific writing with AI-based tools, soft matter science, industry insights, and entrepreneurship.<br>Join us for an enriching educational experience led by industry experts and academics. We look forward to seeing you there!'
 
 # Talk start and end times.
