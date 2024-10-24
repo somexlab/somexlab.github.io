@@ -48,7 +48,7 @@ social:
     link: 'mailto:nikolaos.kalafatakis@univie.ac.at'
   - icon: x-twitter
     icon_pack: fab
-    link: https://twitter.com/NKalafatakis
+    link: https://x.com/NKalafatakis
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=XeR8fO4AAAAJ&hl=en&oi=ao

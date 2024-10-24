@@ -23,7 +23,8 @@ sections:
           position: right
           color: '#666'
       - title: Brightfield/Confocal Microscopy 🔬
-        content: 'Our state-of-the-art equipment and expert support, allows users to capture detailed three-dimensional images with exceptional clarity and precision. Whether investigating cellular dynamics, studying intricate colloidal networks, or delving into fluorescent labeling, our microscopy facility provides the tools and expertise needed to achieve the desired results. Join us in unlocking new insights and pushing the boundaries of scientific discovery. Contact us to schedule your session today.'
+        content: |
+          *Science is all about perspective.. until you put it under a microscope, then it's all about panic!* <br><br>Our state-of-the-art equipment and expert support, allows users to capture detailed three-dimensional images with exceptional clarity and precision. Whether investigating cellular dynamics, studying intricate colloidal networks, or delving into fluorescent labeling, our microscopy facility provides the tools and expertise needed to achieve the desired results. Join us in unlocking new insights and pushing the boundaries of scientific discovery. Contact us to schedule your session today.'
         align: left
         background:
           image:
@@ -37,8 +38,9 @@ sections:
           icon_pack: fas
           text: Request
           url: ../contact/
-      - title: Rheometry 🫗
-        content: 'Our latest rheometry facility allows for precise measurement and analysis of viscosity, elasticity, and flow properties across a wide range of temperatures and shear rates. From understanding the flow characteristics of polymer solutions and colloids to studying the rheological properties of biological fluids, our facility offers the tools and expertise to tackle diverse research challenges. Contact us to explore the capabilities of our rheometry facility.'
+      - title: Rheometry 🧴
+        content: |
+         *Ketchup in a bottle is like life's greatest challenges, nothing happens when you need it, and then it all comes pouring out at once!* <br><br>Our latest rheometry facility allows for precise measurement and analysis of viscosity, elasticity, and flow properties across a wide range of temperatures and shear rates for complex fluids (like Ketchup!). From understanding the flow characteristics of polymer solutions and colloids to studying the rheological properties of biological fluids, our facility offers the tools and expertise to tackle diverse research challenges. Contact us to know more.
         align: left
         background:
           image:
@@ -54,16 +56,18 @@ sections:
           url: ../contact/
       - title: Rheo-imaging 📷
         content: |
-          *"Rheology without structure is Theology"* - Prof. Malcolm Mackley.  
-          Our rheometry facility boasts advanced imaging techniques that allow in-situ measurements on materials undergoing shear flow.
+          *"Rheology without morphology is Theology"* - Prof. Malcolm Mackley.<br>
+          <br>
+          You want to know what happens to the fat droplets in your favorite mayonnaise while applying on a bread? Or the froth bubbles in your handwash while you wash your hands? We can help you! <br>  
+          Our rheometry facility boasts advanced imaging techniques that allow in-situ measurements on materials undergoing shear flow. 
         align: left
         background:
           image:
-            filename: rheometer.jpg
+            filename: rheo_image.jpg
             filters:
               brightness: 0.5
           position: center
-          color: '#333'
+          color: '#444'
         link:
           icon: hand-point-up
           icon_pack: fas
@@ -71,6 +75,7 @@ sections:
           url: ../contact/
       - title: 3D printing 🖨️
         content: |
+          *Sometimes the best way to solve a problem is to literally 3D print your way out of it!*<br><br>
           Materialize your complex designs with our advanced 3D printing facility tailored for scientific research. Having different filament options to choose from, we empower researchers to innovate with ease. From custom lab equipment to intricate prototypes, our facility delivers with accuracy and reliability. Elevate your scientific exploration and accelerate breakthroughs with our comprehensive 3D printing solutions.
         align: left
         background:
