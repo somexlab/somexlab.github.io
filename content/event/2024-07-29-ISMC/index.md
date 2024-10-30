@@ -36,7 +36,7 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: "files/post/ISMC_2024.pdf"
+url_pdf: https://soft-matter.com/wp-content/uploads/2024/08/ISMC-program-July-21_v4_801.pdf
 url_slides: ''
 url_video: ''
 

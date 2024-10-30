@@ -36,7 +36,7 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: "files/post/forgreensoft_2024.pdf"
+url_pdf: https://forgreensoft.gr/wp-content/uploads/2024/10/Workshop-Vienna-T4_T5_Oct.pdf
 url_slides: ''
 url_video: ''
 
