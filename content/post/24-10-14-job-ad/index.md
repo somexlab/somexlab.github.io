@@ -16,10 +16,10 @@ text-align: justify
 
 We are looking for an early career researcher (ECR) with expertise in optics, including microscopy, and image processing, with a preferred knowledge of Python. This position, common in universities in German-speaking countries, involves teaching responsibilities (around 4 hours per week) and offers the opportunity, if suitable, to work on a publication-ready habilitation thesis. The recruited ECR will contribute to the group's ongoing projects, especially those related to [Differential Dynamic Microscopy (DDM)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.100.188102) experiments on soft and biological materials. Additionally, they are encouraged to develop scientific independence in areas of shared interest.
 
-**Deadline for applications:** 28.10.2024\
-**Starting date:** > 18.11.2024
+**Deadline for applications:** Closed\
+**Starting date:** > 18.11.2024\
+**Status:** Under evaluation
 
-More information about how to apply can be found **[here](https://jobs.univie.ac.at/job/University-Assistant-postdoctoral/1129174301/)**.
 
 **2. FWF funded doctoral candidate (4 years)**
 
