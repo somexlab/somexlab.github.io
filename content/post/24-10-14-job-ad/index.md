@@ -31,7 +31,3 @@ This position is funded in the framework of the recently accepted proposal ***Tr
 
 More information about how to apply can be found **[here](https://drive.google.com/file/d/1aWDUbgUNkUQTe8ecDYUc7MQB_UNacg5p/view?usp=sharing)**.
 
-
-{{% callout note %}}
-Do not mail your CVs directly to Roberto.
-{{% /callout %}}
