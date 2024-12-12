@@ -8,12 +8,12 @@ sections:
   - block: hero
     content:
       title: |
-        Welcome to the ***So**ft **M**atter **Ex**periments* Lab
+        Welcome to the ***So**ft **M**atter **eX**periments* Lab
       image:
         filename: welcome.gif
       text: |
         led by <a style="text-decoration:none;" href="/author/admin/_index.md">Roberto Cerbino</a>!  
-        From exploring the behavior of polymers and colloids to investigating the dynamics of biological systems, we are dedicated to unraveling the complexities of **Soft** materials. Whether you're a seasoned researcher or an aspiring scientist, we invite you to join us on this exciting journey of discovery.
+        From exploring the behavior of polymers and colloids to investigating the dynamics of biological systems, we are dedicated to unraveling the complexities of ***<a style="font-weight: bold; text-decoration:none;" href="https://www.nature.com/subjects/soft-materials">Soft</a>*** materials. Whether you're a seasoned researcher or an aspiring scientist, we invite you to join us on this exciting journey of discovery.
         {style="text-align: justify;"}
   
   - block: collection
