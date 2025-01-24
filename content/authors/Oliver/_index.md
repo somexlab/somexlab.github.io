@@ -63,8 +63,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Visitors
 ---
 
-As a master’s student I am currently doing an internship working on the Myxococcus xanthus bacterium. My research focuses on their motility, interesting properties and applications of gene editing workflows especially introduction of plasmids for their multiplication. Currently we are focused an developing good ways to culture the bacterium and to find ways to introduce new 
-Plasmids with markers, the bacterium can use to reproduce them. Apart from that we look for proper ways to image the bacteria for analysis and quantification of the results.
+As a Master’s student I was doing an internship working on the Myxococcus xanthus bacterium. My research focused on their motility, interesting properties and applications of gene editing workflows especially introduction of plasmids for their multiplication. We focused on developing good ways to culture the bacterium and to find ways to introduce new 
+Plasmids with markers, the bacterium can use to reproduce them. Apart from that we explored ways for imaging the bacteria for analysis and quantification of the results.
