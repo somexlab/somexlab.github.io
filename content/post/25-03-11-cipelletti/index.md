@@ -4,7 +4,7 @@ title: A visit from Prof. Luca Cipelletti
 summary: Luca Cipelletti is a professor at the University Montpellier in France, where his group studies Anomalous dynamics in glassy materials. 
 authors:
 #  - Mohandas
-date: 2025-03-11T09:00:00Z
+date: 2025-03-17T09:00:00Z
 image:
   focal_point: 'middle'
   caption: Image credit - R. Cerbino
