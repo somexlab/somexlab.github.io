@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-06-01
 type: landing
 
 sections:
@@ -21,7 +21,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 4
       filters:
         author: ''
         category: ''
@@ -65,6 +65,19 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   
+  - block: collection
+    content:
+      title: Journal Articles
+      text: ""
+      count: 3
+      filters:
+        folders:
+          - publication
+        publication_type: 'article-journal'
+    design:
+      view: citation
+      columns: '2'
+  
   - block: markdown
     content:
       title:
@@ -84,19 +97,6 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-
-#  - block: collection
-#    content:
-#      title: Latest Preprints
-#      text: ""
-#      count: 5
-#      filters:
-#        folders:
-#          - publication
-#        publication_type: 'article'
-#    design:
-#      view: citation
-#      columns: '1'
 
   - block: markdown
     content:
