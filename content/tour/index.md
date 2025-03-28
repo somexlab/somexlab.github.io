@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: FastDDM
-        content: 'FastDDM is a robust Python package we engineered to streamline the analysis of Differential Dynamic Microscopy experiments. Dive into the core of FastDDM and discover how its integration with C++ and CUDA elevates performance, offering rapid and precise execution on both CPU and GPU. For more information contact [E. Lattuada]({{< relref "/authors/Enrico/_index.md" >}}).'
+        content: 'FastDDM is a robust Python package we engineered to streamline the analysis of Differential Dynamic Microscopy experiments. Dive into the core of FastDDM and discover how its integration with C++ and CUDA elevates performance, offering rapid and precise execution on both CPU and GPU. For more information contact [M. Lavaud]({{< relref "/authors/Maxime/_index.md" >}}).'
         align: left
         background:
           image:
