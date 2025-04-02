@@ -61,7 +61,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+  - Grad Students
 ---
 
-I am a visiting student from the University of Zagreb, Croatia where I am in my final year of a 5-year Master's course in Physics. I am doing an internship in **[Roberto's]({{< relref "/authors/admin/_index.md" >}})** research group focusing on oscillatory recovery rheology of soft matter. I have previous research experience in fluorescence correlation spectroscopy and cold atom physics.
+I am a visiting student from the University of Zagreb, Croatia where I am in my final year of a 5-year Master's course in Physics. I am doing my master thesis in **[Roberto's]({{< relref "/authors/admin/_index.md" >}})** research group focusing on oscillatory recovery rheology of soft matter. I have previous research experience in fluorescence correlation spectroscopy and cold atom physics.
