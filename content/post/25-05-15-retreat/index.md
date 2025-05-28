@@ -1,5 +1,5 @@
 ---
-title: Annual Lab Retreat!
+title: Annual Retreat!
 
 summary: Somex lab members take a day off to rejuvenate and reconnect
 authors:
@@ -14,4 +14,4 @@ text-align: justify
 ---
 
 <!--more-->
-We held our very first Annual Lab Retreat — a day dedicated to fostering team connections outside the workplace, surrounded by the beautiful natural landscapes in and around Vienna. This year, we chose the picturesque area of Alte Donau within the city. The day began with a leisurely walk around the island of Gänsehäufel, followed by a delicious lunch at the restaurant [Zur Alten Kaisermühle](https://maps.app.goo.gl/H3JBN7W5YcW3ukZX7).
+We held our very first Annual Retreat — a day dedicated to fostering team connections outside the workplace, surrounded by the beautiful natural landscapes in and around Vienna. This year, we chose the picturesque area of Alte Donau within the city. The day began with a leisurely walk around the island of Gänsehäufel, followed by a delicious lunch at the restaurant [Zur Alten Kaisermühle](https://maps.app.goo.gl/H3JBN7W5YcW3ukZX7).
