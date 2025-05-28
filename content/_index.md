@@ -21,7 +21,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 4
+      count: 3
       filters:
         author: ''
         category: ''
@@ -87,7 +87,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: group1.jpg
+          filename: group.jpg
           filters:
             brightness: 1
           parallax: false
