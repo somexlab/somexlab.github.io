@@ -63,7 +63,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+  - Interns
 ---
 
 I am doing my MSc courses in Physics at the University of Vienna and worked on Myxococcus Xanthus cultures as an internship alongside my classes. I focused on motility and interesting properties of the bacteria like predation and fruiting body formation. We worked on developing ways to best image the samples to then analyse them and quantify the results.
