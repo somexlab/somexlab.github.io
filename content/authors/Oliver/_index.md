@@ -63,7 +63,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+  - Interns
 ---
 
 As a Master’s student I was doing an internship working on the Myxococcus xanthus bacterium. My research focused on their motility, interesting properties and applications of gene editing workflows especially introduction of plasmids for their multiplication. We focused on developing good ways to culture the bacterium and to find ways to introduce new 

@@ -14,8 +14,9 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
-
+role: PhD Student (Dec'23-May'24)
+      
+      
 # Organizations/Affiliations
 organizations:
   - name: Polytechnic of Bari and University of Bari Aldo Moro (Italy)
