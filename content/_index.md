@@ -12,7 +12,7 @@ sections:
       image:
         filename: welcome.gif
       text: |
-        led by <a style="text-decoration:none;" href="/author/admin/_index.md">Roberto Cerbino</a>!  
+        led by [Roberto Cerbino]({{< relref "authors/admin/_index.md" >}})!  
         From exploring the behavior of polymers and colloids to investigating the dynamics of biological systems, we are dedicated to unraveling the complexities of ***<a style="font-weight: bold; text-decoration:none;" href="https://www.nature.com/subjects/soft-materials">Soft</a>*** materials. Whether you're a seasoned researcher or an aspiring scientist, we invite you to join us on this exciting journey of discovery.
         {style="text-align: justify;"}
   
@@ -74,6 +74,19 @@ sections:
         folders:
           - publication
         publication_type: 'article-journal'
+    design:
+      view: citation
+      columns: '2'
+  
+  - block: collection
+    content:
+      title: Preprints
+      text: ""
+      count: 3
+      filters:
+        folders:
+          - publication
+        publication_type: 'article'
     design:
       view: citation
       columns: '2'
