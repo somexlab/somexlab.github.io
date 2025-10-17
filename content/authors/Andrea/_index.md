@@ -1,39 +1,41 @@
 ---
 # Display name
-title: Eva Hudec
+title: Andrea De Marco
 
 # Full name (for SEO)
-first_name: Eva
-last_name: Hudec
+first_name: Andrea
+last_name: De Marco
 
 # Username (this should match the folder name)
 authors:
-  - Eva
+  - Andrea
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MSc Student
+role: PhD Student (Oct'25-Mar'26)
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Zagreb (Croatia)
-    url: 'https://www.unizg.hr/homepage/'
+  - name: University of Padua (Italy)
+    url: 'https://www.unipd.it/en/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Soft Matter Physics, Lasers & Python.
+bio: My research interests include Quantitative microscopy, rheology, microfluidics \& designing optical setups.
 
 interests:
   - Soft Matter Physics
-  - Lasers
-  - Data Analysis in Python
+  - Quantitative microscopy
+  - Rheology
+  - Microfluidics
+  - Optical setup design
 
 education:
   courses:
-    - course: MSc in Physics
-      institution: University of Zagreb (Croatia)
-      year: 2025
+    - course: MSc in Physics of Matter
+      institution: University of Padua (Italy)
+      year: 2023
   #  - course: BSc in Chemistry
   #    institution: University of Bari Aldo Moro (Italy)
   #    year: 2018
@@ -45,7 +47,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:eva.hudec@univie.ac.at'
+    link: 'mailto:andrea.demarco.2@phd.unipd.it'
+  - icon: linkedin
+    icon_pack: fab
+    link: 'linkedin.com/in/andrea-de-marco-a111191ab'
   #- icon: google-scholar
   #  icon_pack: ai
   #  link: https://scholar.google.com/citations?user=FcPIaxgAAAAJ&hl=en&oi=ao
@@ -61,7 +66,10 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Visitors
 ---
+I am a PhD student at the University of Padua under the supervision of [Prof. Matteo Pierno](https://www.unipd.it/en/contatti/rubrica/?detail=Y&ruolo=1&checkout=cerca&persona=PIERNO&key=81DCA696D547F724027E265B5531A74E) since October 2023. My thesis focuses on the optimization of a redox flow battery developed by an Italian company, with a particular interest in the flow dynamics and rheology of the liquid component (the electrolyte).
 
-I am a visiting student from the University of Zagreb, Croatia where I am in my final year of a 5-year Master's course in Physics. I am doing my master thesis in **[Roberto's]({{< relref "/authors/admin/_index.md" >}})** research group focusing on oscillatory recovery rheology of soft matter. I have previous research experience in fluorescence correlation spectroscopy and cold atom physics.
+In October 2025, I joined Somex Lab to gain deeper expertise in Differential Dynamic Microscopy and Rheology, with the aim of studying both the dynamical and rheological properties of 
+the company's electrolyte.
+

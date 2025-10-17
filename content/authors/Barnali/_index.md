@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'a12341941@unet.univie.ac.at'
+    link: 'mailto:a12341941@unet.univie.ac.at'
   #- icon: twitter
     #icon_pack: fab
     #link: https://twitter.com/NKalafatakis
