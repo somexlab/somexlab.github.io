@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student (Feb-Apr'25)
+role: PhD Student (Oct-Dec'25)
 
 # Organizations/Affiliations
 organizations:

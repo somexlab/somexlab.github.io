@@ -39,10 +39,10 @@ sections:
     
       # Email form provider
       form:
-        provider: netlify
+        provider: formspree
         formspree:
-          id:
-        netlify:
+          id: mrbazvba
+        #netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
