@@ -52,12 +52,14 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Soft Matter
-          tag: Soft Matter
+        - name: Rheology
+          tag: Rheology
         - name: Optics
           tag: Optics
         - name: Microscopy
           tag: Microscopy
+        - name: Biology
+          tag: Biology
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
