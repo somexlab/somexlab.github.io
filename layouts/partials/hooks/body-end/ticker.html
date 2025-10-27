@@ -1,0 +1,92 @@
+<div id="hb-ticker" class="hb-ticker" role="region" aria-live="polite" aria-label="Site ticker">
+  <div class="hb-ticker-track">
+    {{- $items := site.Params.ticker.items | default (slice) -}}
+    {{- range $i, $it := $items -}}
+      <a class="hb-ticker-item" href="{{ $it.url | safeURL }}" {{ if $it.newtab }}target="_blank" rel="noopener"{{ end }}>
+        {{ $it.text }}
+      </a>
+    {{- end -}}
+    <!-- duplicate items for seamless loop -->
+    {{- range $i, $it := $items -}}
+      <a class="hb-ticker-item" href="{{ $it.url | safeURL }}" {{ if $it.newtab }}target="_blank" rel="noopener"{{ end }}>
+        {{ $it.text }}
+      </a>
+    {{- end -}}
+  </div>
+</div>
+
+<script>
+  // Ensure ticker is placed at the top of the page.
+  window.addEventListener('DOMContentLoaded', () => {
+    const t = document.getElementById('hb-ticker');
+    if (!t) return;
+
+    // Prefer placing it directly *after* the main navbar if it exists…
+    const nav = document.querySelector('#navbar-main');
+    if (nav && nav.parentElement) {
+      nav.parentElement.insertBefore(t, nav.nextSibling);
+    } else {
+      // …otherwise force it to the very top of <body>.
+      document.body.prepend(t);
+    }
+
+    // Pause on hover for accessibility
+    t.addEventListener('mouseenter', () => t.classList.add('paused'));
+    t.addEventListener('mouseleave', () => t.classList.remove('paused'));
+
+    // Respect reduced motion
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      t.classList.add('paused');
+    }
+  });
+</script>
+
+<style>
+  .hb-ticker {
+    position: sticky;
+    /* If we inserted after the navbar, this keeps it tucked just beneath it.
+       If there is no navbar, this acts as a top-of-page sticky. */
+    top: var(--navbar-height, 0px);
+    z-index: 1000;
+
+    background: var(--background);
+    border-bottom: 1px solid var(--border);
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+  .hb-ticker-track {
+    display: inline-block;
+    will-change: transform;
+    animation: hb-marquee 40s linear infinite;
+  }
+
+  .hb-ticker.paused .hb-ticker-track {
+    animation-play-state: paused;
+  }
+
+  .hb-ticker-item {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+  }
+
+  @keyframes hb-marquee {
+    0%   { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+
+  /* Theme variables */
+  :root {
+    /* Adjust if your navbar is taller; 64–72px is common in HB themes */
+    --navbar-height: 64px;
+
+    --background: rgba(255, 255, 255, 0.9);
+    --border: rgba(0, 0, 0, 0.08);
+  }
+
+  .dark .hb-ticker {
+    --background: rgba(17, 17, 17, 0.9);
+    --border: rgba(255, 255, 255, 0.08);
+  }
+</style>

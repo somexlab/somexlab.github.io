@@ -2,7 +2,7 @@
 title: The Non-Equilibrium Physics of Colloidal Sedimentation
 summary: The project aims to combine novel quantitative microscopy approaches and advanced computer simulations to capture in full detail the richness of the sedimentation process in model samples.
 tags:
-  - Soft Matter
+  - Microscopy
 date: '2022-03-01T00:00:00Z'
 authors:
   - Enrico

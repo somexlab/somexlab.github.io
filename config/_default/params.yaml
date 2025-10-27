@@ -116,3 +116,17 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+ticker:
+  items:
+    - text: "📢 We are hiring!"
+      url: "/post/2025/25-10-21-job-ad/"
+    - text: "🚨 New Project alert"
+      url: "/project/25-11-01-Mechanosynth/"
+      newtab: true
+    - text: "📜 New preprint: ShearView"
+      url: "https://arxiv.org/abs/2508.08951"
+      newtab: true
+    - text: "📄 New publication: The Hitchhiker's guide to DDM"
+      url: "https://pubs.aip.org/aip/jcp/article/163/16/161501/3369109/The-Hitchhiker-s-guide-to-differential-dynamic"
+      newtab: true

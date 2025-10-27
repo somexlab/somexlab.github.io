@@ -2,7 +2,7 @@
 title: Transforming Gels Through Training (TRAINGEL)
 summary: Training colloidal gels through mechanical solicitation or by altering the interaction between the colloidal particles.
 tags:
-  - Soft Matter
+  - Rheology
 date: '2024-10-21T00:00:00Z'
 authors:
   - admin
