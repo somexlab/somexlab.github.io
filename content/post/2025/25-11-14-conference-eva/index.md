@@ -19,7 +19,7 @@ text-align: justify
 
 *Our Master student [Eva Hudec]({{< relref "/authors/Eva/_index.md" >}}) shared her latest findings on Soft Matter rheology during the annual [ÖGR Meeting 2025](https://www.rheo.at/event/ogr-meeting-2025/) with the members of the Austrian Society of Rheology.* 
 
-Details of the oral talk:
+Details of the talk:
 
 **Multi-scale study of the yielding transition with quantitative rheo-microscopy**
 
