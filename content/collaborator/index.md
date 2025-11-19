@@ -44,6 +44,8 @@ sections:
         | [Frederic Pignon](https://sites.google.com/site/fredericpignon) | Université Grenoble Alpes, CNRS (France) | [TRAINGEL]({{< relref "/project/24-01-01-TRAINGEL/_index.md" >}}) |
         | [Stefano Aime](https://sites.google.com/view/steaime/home?authuser=0) | ESPCI Paris (France) | [TRAINGEL]({{< relref "/project/24-01-01-TRAINGEL/_index.md" >}}) |
         | [Christos Likos](https://comp-phys.univie.ac.at/likos/) | University of Vienna (Austria) | [TRAINGEL]({{< relref "/project/24-01-01-TRAINGEL/_index.md" >}}) |
+        | [Diana Pinheiro](https://www.imp.ac.at/groups/diana-pinheiro) | Vienna BioCenter (Austria) | [MECHANOSYNTH]({{< relref "/project/25-11-01-Mechanosynth/_index.md" >}}) |
+        | [Edouard Hannezo](https://ist.ac.at/en/research/hannezo-group/) | Institute of Science and Technology Austria (Austria) | [MECHANOSYNTH]({{< relref "/project/25-11-01-Mechanosynth/_index.md" >}}) |
     design:
       columns: '1'
   - block: markdown

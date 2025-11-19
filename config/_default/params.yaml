@@ -122,7 +122,7 @@ ticker:
     - text: "📢 We are hiring!"
       url: "/post/2025/25-10-21-job-ad/"
     - text: "🚨 New Project alert"
-      url: "/project/25-11-01-Mechanosynth/"
+      url: "/project/25-11-01-mechanosynth/"
       newtab: true
     - text: "📜 New preprint: ShearView"
       url: "https://arxiv.org/abs/2508.08951"
