@@ -124,9 +124,9 @@ ticker:
     - text: "🚨 New Project alert"
       url: "/project/25-11-01-mechanosynth/"
       newtab: true
-    - text: "📜 New preprint: ShearView"
-      url: "https://arxiv.org/abs/2508.08951"
-      newtab: true
-    - text: "📄 New publication: The Hitchhiker's guide to DDM"
-      url: "https://pubs.aip.org/aip/jcp/article/163/16/161501/3369109/The-Hitchhiker-s-guide-to-differential-dynamic"
+    #- text: "📜 New preprint: ShearView"
+    #  url: "https://arxiv.org/abs/2508.08951"
+    #  newtab: true
+    - text: "📄 Latest publication: A compact stress- and strain-controlled linear rheometer for integrated rheomicroscopy"
+      url: "https://pubs.aip.org/sor/jor/article/70/1/165/3375921/ShearView-A-compact-stress-and-strain-controlled"
       newtab: true
