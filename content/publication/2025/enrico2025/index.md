@@ -6,6 +6,14 @@ authors:
 - Maxime
 - Fabio Giavazzi
 - admin
+
+author_notes:
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
+
 date: "2025-10-24T00:00:00Z"
 doi: "https://doi.org/10.1063/5.0289471"
 

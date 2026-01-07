@@ -1,0 +1,41 @@
+---
+title: New publication - ShearView Rheometer
+summary: Read more about our newly developed Open-source rheometer :microscope:.
+authors:
+#  - Mohandas
+date: 2026-01-07
+image:
+  placement: 1
+  caption: 'ShearView rheometer setup. © N. Kalafatakis'
+  focal_point: 'smart'
+  preview_only: false
+  #alt_text: An optional description of the image for screen readers.
+# Show this page in the Featured widget?
+featured: true
+text-align: justify
+---
+
+<!--more-->
+
+<div style="text-align: justify;">
+
+We are pleased to share our latest publication on **ShearView**, a compact, open-source rheometer compatible with optical microscopy.
+
+The full article, now published in the [Journal of Rheology](https://pubs.aip.org/sor/jor), presents the complete design, calibration, and validation of the **ShearView** platform, together with representative experimental applications. This work is motivated by a clear goal: ***to lower the technical and financial barriers to synchronized rheology–microscopy measurements, while preserving quantitative rigor, transparency, and reproducibility.***
+
+The study has also been featured as an [American Institute of Physics SciLight](https://pubs.aip.org/aip/sci/pages/about), titled "Open-source rheometer lowers barriers to synchronized rheology and microscopy studies."
+
+Links:
+
+- 📄 [Journal of Rheology (research article)](https://pubs.aip.org/sor/jor/article/70/1/165/3375921/ShearView-A-compact-stress-and-strain-controlled)
+
+- ✨ [AIP SciLight (editorial highlight)](https://www.aip.org/scilights/open-source-rheometer-lowers-barriers-to-synchronized-rheology-and-microscopy-studies)
+
+- 📄 [AIP Science (archival SciLight article)](https://pubs.aip.org/aip/sci/article/2026/1/011107/3375911/Open-source-rheometer-lowers-barriers-to)
+
+This work was carried out by our PhD student [Nikolaos Kalafatakis]({{< relref "/authors/Nikos/_index.md" >}}), combining instrument design, electronics, control software, data analysis, and experimental validation into a single, fully documented platform intended for real use beyond our own lab.
+
+We gratefully acknowledge the support of the Austrian Science Fund (FWF, TRAINGEL) and the European Union (FORGreen Soft), as well as the University of Vienna for providing an outstanding research environment at the Faculty of Physics.
+
+We look forward to seeing how **ShearView** will be used, adapted, and extended in the coming years.
+</div>
