@@ -119,8 +119,8 @@ publications:
 
 ticker:
   items:
-    - text: "📢 We are hiring!"
-      url: "/post/2025/25-10-21-job-ad/"
+    #- text: "📢 We are hiring!"
+    #  url: "/post/2025/25-10-21-job-ad/"
     - text: "🚨 New Project alert"
       url: "/project/25-11-01-mechanosynth/"
       newtab: true

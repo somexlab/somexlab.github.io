@@ -1,5 +1,5 @@
 ---
-title: Now hiring! - 1 Postdoc (24 months) or 1 PhD (48 months)
+title: (CLOSED) Now hiring! - 1 Postdoc (24 months) or 1 PhD (48 months)
 summary: Click here to know more.
 authors:
 #  - Mohandas
@@ -62,7 +62,7 @@ Applications will be reviewed on a rolling basis until the position is filled, w
 
 **Deadline for applications:** End of the year\
 **Starting date:** > 2026\
-**Status:** Open
+**Status:** Closed
 
 {{% callout note %}}
 Do not send your application directly to Roberto.
