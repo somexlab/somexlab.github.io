@@ -121,6 +121,8 @@ ticker:
   items:
     #- text: "📢 We are hiring!"
     #  url: "/post/2025/25-10-21-job-ad/"
+    - text: "🎉 Congratulations New Job"
+      url: "/post/2026/26-01-13-nikos-job/"
     - text: "🚨 New Project alert"
       url: "/project/25-11-01-mechanosynth/"
       newtab: true
