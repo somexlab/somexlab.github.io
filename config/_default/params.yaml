@@ -119,8 +119,8 @@ publications:
 
 ticker:
   items:
-    #- text: "📢 We are hiring!"
-    #  url: "/post/2025/25-10-21-job-ad/"
+    - text: "📢 Roberto joins PCIG!"
+      url: "/post/2026/26-01-16-Roberto_PCIG/"
     - text: "🎉 Congratulations New Job"
       url: "/post/2026/26-01-13-nikos-job/"
     - text: "🚨 New Project alert"
@@ -129,6 +129,6 @@ ticker:
     #- text: "📜 New preprint: ShearView"
     #  url: "https://arxiv.org/abs/2508.08951"
     #  newtab: true
-    - text: "📄 Latest publication: A compact stress- and strain-controlled linear rheometer for integrated rheomicroscopy"
+    - text: "📄 Latest publication: ShearView"
       url: "https://pubs.aip.org/sor/jor/article/70/1/165/3375921/ShearView-A-compact-stress-and-strain-controlled"
       newtab: true
