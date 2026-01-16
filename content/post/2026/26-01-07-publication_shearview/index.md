@@ -1,6 +1,6 @@
 ---
 title: New publication - ShearView Rheometer
-summary: Read more about our newly developed Open-source rheometer :microscope:.
+summary: Read more about our newly developed Open-source rheometer :microscope:.<span style="color:#4284EB;">Read more</span>
 authors:
 #  - Mohandas
 date: 2026-01-07
