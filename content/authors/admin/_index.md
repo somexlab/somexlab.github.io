@@ -76,8 +76,12 @@ user_groups:
   - Principal Investigator
 ---
 
+<div style="text-align: justify;">
+
 I am a professor of Experimental Soft Matter Physics at the University of Vienna (Austria), where I arrived in March 2021 from the University of Milan (Italy).
 
 My research group, part of the Computational and Soft Matter Physics Unit, uses light to perform broadly focused investigations on the structure, the dynamics and the working processes involving soft and biological materials.
 
 We rely on collaborations with international partners, both in academia and industry, and we are always happy to make new friends!
+
+</div>

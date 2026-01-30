@@ -64,6 +64,10 @@ email: ''
 user_groups:
   - Visitors
 ---
+<div style="text-align: justify;">
+
 I am a PhD student at the University of Milan under the supervision of [Prof. Fabio Giavazzi](https://www.unimi.it/en/ugov/person/fabio-giavazzi) since October 2023. My research is part of a collaboration between the Department of Medical Biotechnology and Translational Medicine of the University of Milan and [NanoTemper Technologies](https://nanotempertech.com/) (Munich, Germany), a company specializing in instruments for the biophysical characterization of biomolecules and biomolecular complexes.
 
 My PhD project focuses on the study of Differential Dynamic Microscopy (DDM) for the quantitative characterization of biomolecular systems, providing insights into their structural and dynamic properties. In February 2025, I started a period of research with Roberto's group to refine DDM for assessing the properties of biological samples by studying their absolute scattering intensity (as in Static Light Scattering) to obtain information on the molecular weight of macromolecules and their potential interactions.
+
+</div>

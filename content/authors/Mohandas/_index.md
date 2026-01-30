@@ -76,7 +76,10 @@ email: ''
 user_groups:
   - Administration
 ---
+<div style="text-align: justify;">
 
 In 2023, I joined **[Roberto's]({{< relref "/authors/admin/_index.md" >}})** group, where I leverage my skills to facilitate the seamless operation of the laboratory. My expertise is mainly in the field of soft matter rheology, microscopy, and polymer processing. My doctoral thesis centered on investigating microstructural transitions under shear in Gels and Glasses of Rod-like colloids.
 
 I also have extensive experience in polymer research, with a focus on carbon fiber reinforced polymer (CFRP) composites and polymer processing in tyre industry. Moreover, I am actively engaged in expanding my skill set, such as 3D printing, product design, electronics and Python programming.
+
+</div>

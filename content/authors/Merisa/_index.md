@@ -67,5 +67,8 @@ email: ''
 user_groups:
   - Grad Students
 ---
+<div style="text-align: justify;">
 
 I'm a Physics Master Student at the University of Vienna. In my thesis, I study microrheological properties of bio-inks for 3D bioprinting. I focus on understanding how gelation occurs in different bio-ink formulations and how their structure and mechanical behavior influence the printability of bio-inks for soft tissue engineering applications. My project combines microscopy, image analysis and bioprinting experiments.
+
+</div>

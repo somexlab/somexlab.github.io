@@ -63,5 +63,8 @@ email: ''
 user_groups:
   - Undergrad students
 ---
+<div style="text-align: justify;">
 
 I am currently working on my Bachelor thesis at the SOMEX lab. I am replicating experiments on the motility and self-driven phase transitions of Myxococcus Xanthus bacteria. Through this I am being introduced to a broad spectrum of methods used in Soft Matter Physics and Biophysics. I am trying to improve the imaging problems being faced because of condensation and evaporation in the imaging well.
+
+</div>

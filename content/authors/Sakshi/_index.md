@@ -70,5 +70,8 @@ email: ''
 user_groups:
   - Grad Students
 ---
+<div style="text-align: justify;">
 
 In March 2025, I began my PhD in the SOMEX Lab under the supervision of **[Roberto]({{< relref "/authors/admin/_index.md" >}})**. I hold a Master’s degree in Physics, and my research focuses on Rheology, Microscopy, Rheo-Microscopy, and Differential Dynamic Microscopy (DDM). My project aims to investigate the effects of mechanical training on colloidal gels, identifying distinct gel states and training protocols that lead to either gel stiffening or weakening. Through this work, I strive to deepen our understanding of gel mechanics and their response to external perturbations.
+
+</div>

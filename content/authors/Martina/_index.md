@@ -68,7 +68,10 @@ email: ''
 user_groups:
   - Administration
 ---
+<div style="text-align: justify;">
 
 I am the secretary of the the Group “Experimental Soft Matter Physics” (Somex Lab) since April 2021. I have been associated with University of Vienna since February 2011, initially as a personnel referent in the Human Resources and Gender Equality department (HR Services), responsible for all personnel matters of the Faculty of Physics and the unit's International Office and Research Services and Career Development.
 
 After a 2 year stay in Germany I was happy to return to the University of Vienna in 2021 to the newly founded research group of **[Roberto]({{< relref "/authors/admin/_index.md" >}})**, where I am responsible for all administrative and non-scientific matters.
+
+</div>

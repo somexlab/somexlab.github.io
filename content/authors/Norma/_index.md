@@ -72,9 +72,12 @@ email: ''
 user_groups:
   - Visitors
 ---
+<div style="text-align: justify;">
 
 I worked with **[Roberto]({{< relref "/authors/admin/_index.md" >}})** in the year 2022-2023 as a visiting scholar. My work involved building an experimental setup for holographic optical tweezers. Utilizing this setup, I did experiments with the goal of measuring Casimir-like forces in systems that are not in thermodynamic equilibrium. Our preliminary results showed what seemed to be the first experimental evidence of such forces in non-equilibrium systems.
 
 Additionally, I have investigated the formation of aggregates in systems with competitive interactions, such as those found in certain proteins, by developing Brownian dynamics simulations. 
 
 Currently, I am a PhD student under the supervision of **[Prof. Giovanni Volpe](https://softmatterlab.org/people/giovanni-volpe/)**, and my research focuses on studying biological systems using optical tweezers and light sheet techniques.
+
+</div>

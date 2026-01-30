@@ -65,6 +65,9 @@ email: ''
 user_groups:
   - Interns
 ---
+<div style="text-align: justify;">
 
 As a Master’s student I was doing an internship working on the Myxococcus xanthus bacterium. My research focused on their motility, interesting properties and applications of gene editing workflows especially introduction of plasmids for their multiplication. We focused on developing good ways to culture the bacterium and to find ways to introduce new 
 Plasmids with markers, the bacterium can use to reproduce them. Apart from that we explored ways for imaging the bacteria for analysis and quantification of the results.
+
+</div>
