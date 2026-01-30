@@ -63,4 +63,8 @@ email: ''
 user_groups:
   - Visitors
 ---
+<div style="text-align: justify;">
+
 I am a PhD student in the Department of Physics at Durham University working under the supervision of [Dr. Anders Aufderhorst-Roberts](https://www.durham.ac.uk/staff/anders-aufderhorst-roberts/) and [Dr. Natasha Shirshova](https://www.durham.ac.uk/staff/natasha-shirshova/). My research focuses on elucidating the structure-property relationship of hybrid double-network hydrogels so that they can be used as a sustainable alternative in consumer products. I have joined Roberto’s group as a visiting student to use the rheo-microscopy expertise developed here to seek structural evidence of the yielding transitions exhibited by these hydrogels.
+
+</div>

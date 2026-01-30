@@ -68,8 +68,13 @@ email: ''
 user_groups:
   - Visitors
 ---
+
+<div style="text-align: justify;">
+
 I am a PhD student at the University of Padua under the supervision of [Prof. Matteo Pierno](https://www.unipd.it/en/contatti/rubrica/?detail=Y&ruolo=1&checkout=cerca&persona=PIERNO&key=81DCA696D547F724027E265B5531A74E) since October 2023. My thesis focuses on the optimization of a redox flow battery developed by an Italian company, with a particular interest in the flow dynamics and rheology of the liquid component (the electrolyte).
 
 In October 2025, I joined Somex Lab to gain deeper expertise in Differential Dynamic Microscopy and Rheology, with the aim of studying both the dynamical and rheological properties of 
 the company's electrolyte.
+
+</div>
 

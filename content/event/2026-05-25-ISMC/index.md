@@ -1,29 +1,29 @@
 ---
-title: "The 9th International Soft Matter Conference"
+title: "The 10th International Soft Matter Conference"
 
-event: Soft Matter Conference
-event_url: https://ismc2025.org/
+event: International Soft Matter Conference
+event_url: 'https://ge.iitm.ac.in/ismc2026'
 
-location: Minoa Palace Resort, Greece
+location: BITS Pilani, India
 
 address:
-  street: Platanias 
-  city: Chania
-  region: Crete
-  postcode: '73014'
-  country: Greece
+  street: NH 17B, Bypass Road, Zuarinagar
+  city: Sancoale
+  region: Goa
+  postcode: '403726'
+  country: India
 
-summary: Annual conference bringing together Soft Matter scientists across Physics, Chemistry, Biology, and Engineering for plenary talks, keynotes, contributed sessions, and discussions.  
-abstract: 'The conference aims to gather scientists from all fields of Soft Matter and expertise in Physics, Chemistry, Biology and Engineering. Sessions will include of Plenary and Keynote presentations as well as contributed talks and poster and discussion sessions.'
+summary: Annual conference bringing together Soft Matter scientists across Physics, Chemistry, Biology, and Engineering for plenary talks, keynotes, contributed sessions, and discussions.
+abstract:  'The conference aims to gather scientists from all fields of Soft Matter and expertise in Physics, Chemistry, Biology and Engineering. Sessions will include of Plenary and Keynote presentations as well as contributed talks and poster and discussion sessions.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-09-28T16:00:00Z'
-date_end: '2025-10-03T15:00:00Z'
+date: '2026-05-24T09:00:00Z'
+date_end: '2026-05-29T12:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-09-26T00:00:00Z'
+publishDate: '2026-01-30T00:00:00Z'
 
 authors: [admin]
 tags: []
@@ -32,11 +32,11 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image: [ISMC](https://ismc2025.org/)'
-  focal_point: Right
+  caption: 'Image credit: [ISMC 2026](https://ge.iitm.ac.in/ismc2026)'
+  focal_point: smart
 
 url_code: ''
-url_pdf: https://ismc2025.org/wp-content/uploads/2025/09/final-program-ISMC-26-9a.pdf
+url_pdf: ''
 url_slides: ''
 url_video: ''
 

@@ -18,7 +18,7 @@ role: MSc Student
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Vienna
+  - name: University of Vienna (🎓 2025)
     url: 'https://comp-phys.univie.ac.at/people/master-students/#c941698'
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,4 +68,8 @@ user_groups:
   - Alumni
 ---
 
+<div style="text-align: justify;">
+
 I was a Physics Master Student at the University of Vienna and my Master's thesis focused on the interplay of structure and dynamics in cellular monolayers. In my thesis I explored various perspectives from real space analysis (tracking, PIV, Cytometry (segmentation  of fluorescent nuclei, Voronoi tessellation)) and Fourier space analysis (DDM, static structure factor) to characterise these interplays.
+
+</div>

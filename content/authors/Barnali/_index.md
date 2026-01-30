@@ -67,5 +67,8 @@ email: ''
 user_groups:
   - Grad Students
 ---
+<div style="text-align: justify;">
 
 I am a master's student in Physics at the University of Vienna, currently doing my thesis in Roberto’s research group. My work focuses on thermally induced transitions in ECM-based composite hydrogels for 3D bioprinting, with an emphasis on rheological characterization and its impact on printability and structural fidelity.
+
+</div>

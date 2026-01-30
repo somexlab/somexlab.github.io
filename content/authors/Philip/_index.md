@@ -18,7 +18,7 @@ role: MSc Student
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Vienna
+  - name: University of Vienna (🎓 2024)
     #url: 'https://comp-phys.univie.ac.at/people/master-students/#c941698'
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,6 +70,10 @@ user_groups:
   - Alumni
 ---
 
+<div style="text-align: justify;">
+
 I completed my Physics Masters in 2024 and worked in the laboratory of **[Roberto]({{< relref "/authors/admin/_index.md" >}})** for my thesis. My work involved the experimental investigation of thermophoresis, the induced movement of micro-scaled particles in response to temperature gradients within a fluid. Specifically, I studied how the shape of particles influences this movement by comparing ellipsoidal particles with different aspect ratios.
 
 Post-graduation, I focused on the field of time series forecasting within the energy market. My work primarily revolves around developing signal decomposition techniques and machine learning models.
+
+</div>

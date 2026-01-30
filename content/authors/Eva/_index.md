@@ -63,5 +63,8 @@ email: ''
 user_groups:
   - Grad Students
 ---
+<div style="text-align: justify;">
 
 I am a visiting student from the University of Zagreb, Croatia where I am in my final year of a 5-year Master's course in Physics. I am doing my master thesis in **[Roberto's]({{< relref "/authors/admin/_index.md" >}})** research group focusing on oscillatory recovery rheology of soft matter. I have previous research experience in fluorescence correlation spectroscopy and cold atom physics.
+
+</div>

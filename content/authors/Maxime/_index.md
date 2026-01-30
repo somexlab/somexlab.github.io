@@ -69,6 +69,7 @@ email: ''
 user_groups:
   - Researchers
 ---
+<div style="text-align: justify;">
 
 I have been a postdoctoral research fellow in the SoMeX Lab since January 2025. My general research interests lie in using experimental and numerical approaches for inference in complex systems. To this end, I have primarily employed optical technics such as interferometric techniques and Langevin simulations.
 
@@ -77,3 +78,5 @@ My PhD work focused on the experimental study of confined Brownian motion. Using
 During my postdoctoral research, I have studied the statistical properties of displacement rare events of confined Brownian colloids. This work involved both experimental and numerical approaches, needing high-performance computing resources.
 
 Recently, I developed a setup for Taylor Dispersion Analysis (TDA), enabling precise particle sizing. This setup is now being used in collaboration with biophysicists to characterize the fibrillation process of amyloid peptides, which are known to have a role in brain disorders such as Alzheimer's disease.
+
+</div>

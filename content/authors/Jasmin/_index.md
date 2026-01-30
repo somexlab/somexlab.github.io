@@ -70,5 +70,8 @@ email: ''
 user_groups:
   - Grad Students
 ---
+<div style="text-align: justify;">
 
 In November 2022, I became a PhD student in the **Somex Lab** under the supervision of **[Roberto]({{< relref "/authors/admin/_index.md" >}})**. My research project centers on mechanobiology, focusing on the mechanical behavior of cell tissues. This project encompasses the study of normal tissues, pharmacologically treated tissues, and mutant tissues in both two and three dimensions. The goal is to characterize their mechanical properties while observing microscopic-scale events.
+
+</div>
