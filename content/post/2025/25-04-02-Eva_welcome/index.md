@@ -2,7 +2,7 @@
 title: Welcome to our new MSc student!
 summary: Eva Hudec joins us for her Master's thesis.
 authors:
-  - Mohandas
+#  - Mohandas
 date: 2025-04-02
 image:
   placement: 1

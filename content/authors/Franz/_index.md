@@ -33,7 +33,7 @@ education:
   courses:
     - course: BSc in Physics
       institution: University of Vienna
-      year: 
+      year: 2026
   #  - course: BSc in Chemistry
   #    institution: University of Bari Aldo Moro (Italy)
   #    year: 2018
@@ -61,7 +61,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrad students
+  - Alumni
 ---
 <div style="text-align: justify;">
 

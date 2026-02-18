@@ -50,9 +50,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:mohandas.mohandas@univie.ac.at'
-  - icon: x-twitter
-    icon_pack: fab
-    link: https://x.com/mohandas8488
+  #- icon: x-twitter
+  #  icon_pack: fab
+  #  link: https://x.com/mohandas8488
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=ybIPZA8AAAAJ&hl=en

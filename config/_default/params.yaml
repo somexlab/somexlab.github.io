@@ -121,8 +121,8 @@ ticker:
   items:
     - text: "📢 Registration open: Bombannes Summer School"
       url: "/event/2026-02-09-PCIG/"
-    - text: "🎉 Congratulations New Job"
-      url: "/post/2026/26-01-13-nikos-job/"
+    - text: "🎉 Congratulations on Graduation"
+      url: "/post/2026/26-02-16-Eva_graduation/"
     - text: "🚨 New Project alert"
       url: "/project/25-11-01-mechanosynth/"
       newtab: true

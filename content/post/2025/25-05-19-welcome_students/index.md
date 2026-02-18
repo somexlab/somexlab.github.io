@@ -2,7 +2,7 @@
 title: Welcome to our new students!
 summary: Four new students join us for pursuing their thesis.
 authors:
-  - Mohandas
+#  - Mohandas
 date: 2025-05-19
 image:
   placement: 1
