@@ -14,11 +14,12 @@ sections:
           - Principal Investigator
           - Researchers
           - Grad Students
+          - Visitors
           - Undergrad students
           - Administration
-          - Interns
-          - Visitors
           - Alumni
+          - Interns
+          - Past Visitors
       sort_by: Params.role
       sort_ascending: false
     design:

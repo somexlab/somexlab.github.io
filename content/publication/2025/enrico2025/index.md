@@ -26,7 +26,7 @@ publishDate: "2025-10-27T12:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Hitchhiker's Guide to Differential Dynamic Microscopy"
+publication: "*J. Chem. Phys.* **163**, no. 16 (2025): 161501"
 publication_short: ""
 
 abstract: Over nearly two decades, differential dynamic microscopy (DDM) has become a standard technique for extracting dynamic correlation functions from time-lapse microscopy data, with applications spanning classical soft matter systems, such as colloidal suspensions, liquid crystals, polymer solutions, gels and glasses, and active fluids and biological systems. In its most common implementation, DDM analyzes image sequences acquired with a conventional microscope equipped with a digital camera, yielding time- and wavevector-resolved information analogous to that obtained in multi-angle dynamic light scattering. With a widening array of applications and a growing, heterogeneous user base, lowering the technical barrier to performing DDM has become a central objective. In this tutorial article, we provide a step-by-step guide to conducting DDM experiments—from planning and acquisition to data analysis—intended as a resource for both new and experienced practitioners. We also introduce the open-source software package, fastDDM, designed to efficiently process large image datasets using optimized, parallel algorithms that reduce analysis times by up to four orders of magnitude on typical datasets (e.g., 10 000 frames), thereby enabling high-throughput workflows, reproducibility, and broader adoption across disciplines.

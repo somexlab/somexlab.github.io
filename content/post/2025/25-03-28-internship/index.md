@@ -16,7 +16,7 @@ text-align: justify
 <!--more-->
 **About the Internship**
 
-The [Vienna Doctoral School in Physics](https://vds-physics.univie.ac.at/?no_cache=1) offers selected MSc students from inside and outside of Austria to be immersed in real world research with experts in their field for 2-6 months between 1 September 2025 and 31 August 2026.
+The [Vienna Doctoral School in Physics](https://vds-physics.univie.ac.at/?no_cache=1) offers select MSc students from inside and outside of Austria to be immersed in real world research with experts in their field for 2-6 months between 1 September 2025 and 31 August 2026.
 
 Find more details [here](https://vds-physics.univie.ac.at/open-calls/vdsp-internships/).
 
