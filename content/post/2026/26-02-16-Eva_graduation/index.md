@@ -22,6 +22,7 @@ Congratulations to our Master’s student, [Eva Hudec]({{< relref "/authors/Eva/
 
 </div>
 
+
 <div style="height: 50px;"></div>
 
 <div style="border: 1px solid #ddd; padding: 20px; border-radius: 6px;text-align: justify;">
