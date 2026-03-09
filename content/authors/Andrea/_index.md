@@ -50,7 +50,7 @@ social:
     link: 'mailto:andrea.demarco.2@phd.unipd.it'
   - icon: linkedin
     icon_pack: fab
-    link: 'linkedin.com/in/andrea-de-marco-a111191ab'
+    link: 'https://www.linkedin.com/in/andrea-de-marco-a111191ab'
   #- icon: google-scholar
   #  icon_pack: ai
   #  link: https://scholar.google.com/citations?user=FcPIaxgAAAAJ&hl=en&oi=ao
