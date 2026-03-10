@@ -53,9 +53,9 @@ social:
   #- icon: x-twitter
   #  icon_pack: fab
   #  link: https://x.com/NKalafatakis
-  #- icon: google-scholar
-  #  icon_pack: ai
-  #  link: https://scholar.google.com/citations?user=ghKM4koAAAAJ&hl=en&oi=ao
+  - icon: google-scholar
+    icon_pack: ai
+    link: 'https://scholar.google.com/citations?user=2snUiIAAAAAJ&hl=en'
   - icon: linkedin
     icon_pack: fab
     link: 'https://linkedin.com/in/zhiboli1994'
