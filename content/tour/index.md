@@ -79,7 +79,7 @@ sections:
           position: bottom
           color: '#555'          
       - title: Microrheology for 3D bioprinting
-        content: 'Structure and temperature influence the mechanical behavior of biopolymers used for 3D printing. By tracking the diffusion of small tracer particles dispersed in the biopolymer solution, we study their rheological behaviour. Our findings are aimed at supporting the development of novel bio-inks for 3D printing. For more information contact [M. Avdic]({{< relref "/authors/Merisa/_index.md" >}}).'
+        content: 'Structure and temperature influence the mechanical behavior of biopolymers used for 3D printing. By measuring the diffusion of small tracer particles dispersed in the biopolymer solution, we study their rheological behaviour. Our findings are aimed at supporting the development of novel bio-inks for 3D printing. For more information contact [M. Avdic]({{< relref "/authors/Merisa/_index.md" >}}).'
         align: left
         background:
           image:
