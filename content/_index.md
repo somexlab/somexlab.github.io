@@ -39,6 +39,7 @@ sections:
     id: projects
     content:
       title: Projects
+      count: 6
       filters:
         folders:
           - project
@@ -62,10 +63,10 @@ sections:
           tag: Biology
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
+      columns: '2' #valid if view:card
+      view: card #showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
   
   - block: collection
     content:
@@ -80,18 +81,18 @@ sections:
       view: citation
       columns: '2'
   
-  - block: collection
-    content:
-      title: Preprints
-      text: ""
-      count: 3
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '2'
+  #- block: collection
+  #  content:
+  #    title: Preprints
+  #    text: ""
+  #    count: 3
+  #    filters:
+  #      folders:
+  #        - publication
+  #      publication_type: 'article'
+  #  design:
+  #    view: citation
+  #    columns: '2'
   
   - block: markdown
     content:
@@ -102,7 +103,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: group.jpg
+          filename: group_2026.jpg
           filters:
             brightness: 1
           parallax: false
