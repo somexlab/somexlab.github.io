@@ -122,11 +122,11 @@ ticker:
     - text: "📢 Abstract submission SoR 2026"
       url: "/event/2026-10-25-sor/"
       newtab: true
-    - text: "🎉 Congratulations on Graduation"
-      url: "/post/2026/26-02-16-eva_graduation/"
-      newtab: true
-    - text: "🚨 New Member alert"
-      url: "/post/2026/26-03-05-zhibo_welcome/"
+    #- text: "🎉 Congratulations on Graduation"
+    #  url: "/post/2026/26-02-16-eva_graduation/"
+    #  newtab: true
+    - text: "🚨 Now hiring - PhD"
+      url: "/post/2026/26-04-29-job-ad/"
       newtab: true
     #- text: "📜 New preprint: ShearView"
     #  url: "https://arxiv.org/abs/2508.08951"
