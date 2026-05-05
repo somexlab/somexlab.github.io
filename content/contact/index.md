@@ -57,7 +57,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: group1.jpg
+          filename: group_2026.jpg
           filters:
             brightness: 1
           parallax: false
