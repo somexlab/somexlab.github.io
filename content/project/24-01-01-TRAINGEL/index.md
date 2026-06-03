@@ -6,6 +6,7 @@ tags:
 date: '2024-10-21T00:00:00Z'
 authors:
   - admin
+  - Sakshi
 # Optional external URL for project (replaces project detail page).
 #external_link: 'https://nebula.esa.int/content/extension-sodi-instrument-neuf-dix-non-equilibrium-fluctuations-during-diffusion-complex'
 
@@ -38,3 +39,9 @@ The project also involves:
 - ENS, Lyon: [Thomas Gibaud](https://perso.ens-lyon.fr/thomas.gibaud/) 
 - ESPCI, Paris: [Stefano Aime](https://sites.google.com/view/steaime/home?authuser=0)
 - CNRS, Grenoble: [Frédéric Pignon](https://sites.google.com/site/fredericpignon)
+
+{{< callout note >}}
+<div style="font-size: 0.85rem;">
+Contact our PhD student Sakshi for more details.
+</div>
+{{< /callout >}}

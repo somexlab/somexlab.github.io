@@ -40,9 +40,15 @@ Physical forces are crucial in development, tissue maintenance, and disease. Tis
 
 
 Progress has been limited by the lack of experimental methods that can measure tissue-scale mechanical properties while simultaneously visualizing cellular and molecular dynamics. To address this, the proposed research combines material science, developmental biology, and physics through a reductionist approach. It will use functionalized biomimetic emulsions and zebrafish gastruloids to create materials with tunable mechanical responses, analyzed using an innovative opto-rheological platform. Integrating these findings into a biophysical theory will reveal how microscopic interactions generate distinct mechanical behaviors in living versus synthetic tissues. Ultimately, this work aims to reconstruct and understand how passive and active mechanical processes interact, enabling the rational design of new living materials.
+
 {style="text-align: justify;"}
 
 The project also involves:
 - IMP - Research Institute of Molecular Pathology, Vienna: [Diana Pinheiro](https://www.imp.ac.at/groups/diana-pinheiro)
 - Institute of Science and Technology Austria (ISTA): [Edouard Hannezo](https://ist.ac.at/en/research/hannezo-group/) 
 
+{{< callout note >}}
+<div style="font-size: 0.85rem;">
+Contact our Postdoc Zhibo for more details.
+</div>
+{{< /callout >}}
