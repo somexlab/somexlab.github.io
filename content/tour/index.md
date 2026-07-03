@@ -93,6 +93,21 @@ sections:
           icon_pack: fas
           text: Join Us
           url: ../contact/
+      - title: AI-Enhanced DDM
+        content: 'We develop computational methods and machine-learning approaches for Differential Dynamic Microscopy (DDM) data analysis, enabling robust reconstruction of heterogeneous microscopic dynamics from complex dynamical signals. For more information contact [A. Cobo]({{< relref "/authors/Alejandro/_index.md" >}}).'
+        align: left
+        background:
+          image:
+            filename: tour_Alejandro.jpg
+            filters:
+              brightness: 0.8
+          position: bottom
+          color: '#111'             
+          link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''

@@ -16,4 +16,4 @@ text-align: justify
 ---
 
 <!--more-->
-We are thrilled to welcome [Sakshi Khandelwal]({{< relref "/authors/Sakshi/_index.md" >}}) to our research group! She will be contributing to the exciting [TRAINGEL]({{< relref "/project/24-01-01-TRAINGEL/_index.md" >}}) project, where she will explore the effects of mechanical training on colloidal gels using cutting-edge rheo-microscopy techniques.
+We are thrilled to welcome [Sakshi Khandelwal]({{< relref "/authors/Sakshi/_index.md" >}}) to our research group! She will be contributing to the exciting [TRAINGEL]({{< relref "/project/24-10-21-TRAINGEL/_index.md" >}}) project, where she will explore the effects of mechanical training on colloidal gels using cutting-edge rheo-microscopy techniques.
