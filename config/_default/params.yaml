@@ -119,15 +119,15 @@ publications:
 
 ticker:
   items:
-    #- text: "📢 Abstract submission SoR 2026"
-    #  url: "/event/2026-10-25-sor/"
-    #  newtab: true
+    - text: "📢 Snippet: Corsica Summer School 2026"
+      url: "/post/2026/26-08-03-sensory/"
+      newtab: false
     #- text: "🎉 Congratulations on Graduation"
     #  url: "/post/2026/26-02-16-eva_graduation/"
     #  newtab: true
-    - text: "🚨 Now hiring - PhD"
-      url: "/post/2026/26-04-29-job-ad/"
-      newtab: true
+    #- text: "🚨 Now hiring - PhD"
+    #  url: "/post/2026/26-04-29-job-ad/"
+    #  newtab: true
     #- text: "📜 New preprint: ShearView"
     #  url: "https://arxiv.org/abs/2508.08951"
     #  newtab: true
