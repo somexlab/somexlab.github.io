@@ -38,7 +38,7 @@ The candidate shall pick one of our research lines (e.g., rheology, advanced mic
 
 📅**Deadline for applications:** 19.07.2026\
 📅**Starting date:** > 01.09.2026\
-🔔**Status:** Open
+🔔**Status:** Closed
 
 ---
 

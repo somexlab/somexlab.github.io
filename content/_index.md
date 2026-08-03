@@ -35,11 +35,86 @@ sections:
       view: card
       columns: '2'
 
-  - block: portfolio
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: group2026.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
+
+#  - block: portfolio
+#    id: projects
+#    content:
+#      title: Projects
+#      count: 3
+#      filters:
+#        folders:
+#          - project
+#      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+#      default_button_index: 0
+#      # Filter toolbar (optional).
+#      # Add or remove as many filters (`filter_button` instances) as you like.
+#      # To show all items, set `tag` to "*".
+#      # To filter by a specific tag, set `tag` to an existing tag name.
+#      # To remove the toolbar, delete the entire `filter_button` block.
+#      buttons:
+#        - name: All
+#          tag: '*'
+#        - name: Rheology
+#          tag: Rheology
+#        - name: Optics
+#          tag: Optics
+#        - name: Microscopy
+#          tag: Microscopy
+#        - name: Biology
+#          tag: Biology
+#    design:
+#      # Choose how many columns the section has. Valid values: '1' or '2'.
+#      columns: '2' #valid if view:card
+#      view: card #showcase
+#      # For Showcase view, flip alternate rows?
+#      flip_alt_rows: true
+  
+#  - block: markdown
+#    content:
+#      title:
+#      subtitle:
+#      text: |
+#        <div style="text-align:center; margin-top:1rem;">
+#          <a href="/project/" class="btn btn-primary">
+#            View All Projects →
+#          </a>
+#        </div>
+#    design:
+#      columns: '1'
+
+  - block: collection
     id: projects
     content:
       title: Projects
-      count: 4
+      count: 3
       filters:
         folders:
           - project
@@ -67,7 +142,7 @@ sections:
       view: card #showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
-  
+
   - block: collection
     content:
       title: Journal Articles
@@ -94,32 +169,32 @@ sections:
   #    view: citation
   #    columns: '2'
   
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: group.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+#  - block: markdown
+#    content:
+#      title:
+#      subtitle: ''
+#      text:
+#    design:
+#      columns: '1'
+#      background:
+#        image: 
+#          filename: group2026.jpg
+#          filters:
+#            brightness: 1
+#          parallax: false
+#          position: center
+#          size: cover
+#          text_color_light: true
+#      spacing:
+#        padding: ['20px', '0', '20px', '0']
+#      css_class: fullscreen
+#
+#  - block: markdown
+#    content:
+#      title:
+#      subtitle:
+#      text: |
+#        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+#    design:
+#      columns: '1'
 ---
