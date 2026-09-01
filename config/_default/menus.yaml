@@ -28,6 +28,9 @@ main:
   #- name: Services
   #  url: services
   #  weight: 80    
+  - name: Resources
+    url: resources
+    weight: 80
   - name: Contact
     url: contact
     weight: 90
