@@ -39,21 +39,13 @@ sections:
     content:
       title:
       subtitle: ''
-      text:
+      text: |
+        <div style="text-align:center;padding:20px 0;">
+          <img src="/media/group2026.jpg" alt="Group photo"
+               style="max-width:100%;height:auto;display:block;margin:0 auto;border-radius:8px;">
+        </div>
     design:
       columns: '1'
-      background:
-        image: 
-          filename: group2026.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 
   - block: markdown
     content:
