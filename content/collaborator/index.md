@@ -32,39 +32,95 @@ sections:
       # to center align, put ":" at the extremes
       # in |------| field (e.g. |:------:|)
       text: |
-        | Name   | Current affiliation | Project |
-        |:----------:|:-------------:|:-------------:|
-        | [Véronique Trappe](https://www.unifr.ch/phys/en/research/scheffold/group-members/people/18428/19670) | Department of Physics, University of Fribourg (Switzerland) | --- |
-        | [Fabio Giavazzi](https://www.unimi.it/en/ugov/person/fabio-giavazzi) | Department of Medical Biotechnology and Translational Medicine, University of Milan (Italy) | [GTACS]({{< relref "/project/22-01-01-GTACS/_index.md" >}}), [NEUF-DIX]({{< relref "/project/22-01-01-giant-fluctuations/_index.md" >}}) |
-        | [Giorgio Scita](https://www.ifom.eu/en/cancer-research/researchers/giorgio-scita.php) | Faculty of Medicine, University of Milan (Italy) | --- |
-        | [Francesco Sciortino](https://www.roma1.infn.it/~sciortif/curriculum.htm) | Department of Physics, University of Rome La Sapienza (Italy) | --- |
-        | [George Petekidis](https://www.iesl.forth.gr/en/people/petekidis-george) | Department of Material Science and Technology, University of Crete (Greece) | [FORGreenSoft]({{< relref "/project/Forgreensoft/_index.md" >}}) |
-        | [Philippe Coussot](https://philippecoussot.com/) | ENPC-University Gustave Eiffel-CNRS (France) | --- |
-        | [Thomas Gibaud](https://perso.ens-lyon.fr/thomas.gibaud/) | Ecole Normale Supérieure de Lyon (France) | [TRAINGEL]({{< relref "/project/24-10-21-TRAINGEL/_index.md" >}}) |
-        | [Frederic Pignon](https://sites.google.com/site/fredericpignon) | Université Grenoble Alpes, CNRS (France) | [TRAINGEL]({{< relref "/project/24-10-21-TRAINGEL/_index.md" >}}) |
-        | [Stefano Aime](https://sites.google.com/view/steaime/home?authuser=0) | ESPCI Paris (France) | [TRAINGEL]({{< relref "/project/24-10-21-TRAINGEL/_index.md" >}}) |
-        | [Christos Likos](https://comp-phys.univie.ac.at/likos/) | University of Vienna (Austria) | [TRAINGEL]({{< relref "/project/24-10-21-TRAINGEL/_index.md" >}}) |
-        | [Diana Pinheiro](https://www.imp.ac.at/groups/diana-pinheiro) | Vienna BioCenter (Austria) | [MECHANOSYNTH]({{< relref "/project/25-11-01-Mechanosynth/_index.md" >}}) |
-        | [Edouard Hannezo](https://ist.ac.at/en/research/hannezo-group/) | Institute of Science and Technology Austria (Austria) | [MECHANOSYNTH]({{< relref "/project/25-11-01-Mechanosynth/_index.md" >}}) |
+        <div style="display:flex;flex-wrap:wrap;gap:1.2rem;justify-content:center;margin-top:1rem;">
+
+          <div style="background:var(--card-bg,#f8f9fa);border:1px solid var(--border,#e0e0e0);border-radius:10px;padding:1.2rem 1.4rem;flex:1 1 280px;max-width:360px;">
+            <div style="font-weight:600;font-size:1.05rem;"><a href="https://www.unifr.ch/phys/en/research/scheffold/group-members/people/18428/19670" target="_blank">Véronique Trappe</a></div>
+            <div style="color:#666;font-size:0.88rem;margin:0.3rem 0 0.6rem;">Department of Physics, University of Fribourg (Switzerland)</div>
+          </div>
+
+          <div style="background:var(--card-bg,#f8f9fa);border:1px solid var(--border,#e0e0e0);border-radius:10px;padding:1.2rem 1.4rem;flex:1 1 280px;max-width:360px;">
+            <div style="font-weight:600;font-size:1.05rem;"><a href="https://www.unimi.it/en/ugov/person/fabio-giavazzi" target="_blank">Fabio Giavazzi</a></div>
+            <div style="color:#666;font-size:0.88rem;margin:0.3rem 0 0.6rem;">Dept. of Medical Biotechnology, University of Milan (Italy)</div>
+            <div style="display:flex;gap:0.4rem;flex-wrap:wrap;">
+              <a href="/project/22-01-01-GTACS/" style="background:#e3f0fb;color:#1565c0;border-radius:20px;padding:2px 10px;font-size:0.8rem;text-decoration:none;">GTACS</a>
+              <a href="/project/22-01-01-giant-fluctuations/" style="background:#e3f0fb;color:#1565c0;border-radius:20px;padding:2px 10px;font-size:0.8rem;text-decoration:none;">NEUF-DIX</a>
+            </div>
+          </div>
+
+          <div style="background:var(--card-bg,#f8f9fa);border:1px solid var(--border,#e0e0e0);border-radius:10px;padding:1.2rem 1.4rem;flex:1 1 280px;max-width:360px;">
+            <div style="font-weight:600;font-size:1.05rem;"><a href="https://www.ifom.eu/en/cancer-research/researchers/giorgio-scita.php" target="_blank">Giorgio Scita</a></div>
+            <div style="color:#666;font-size:0.88rem;margin:0.3rem 0 0.6rem;">Faculty of Medicine, University of Milan (Italy)</div>
+          </div>
+
+          <div style="background:var(--card-bg,#f8f9fa);border:1px solid var(--border,#e0e0e0);border-radius:10px;padding:1.2rem 1.4rem;flex:1 1 280px;max-width:360px;">
+            <div style="font-weight:600;font-size:1.05rem;"><a href="https://www.roma1.infn.it/~sciortif/curriculum.htm" target="_blank">Francesco Sciortino</a></div>
+            <div style="color:#666;font-size:0.88rem;margin:0.3rem 0 0.6rem;">Department of Physics, University of Rome La Sapienza (Italy)</div>
+          </div>
+
+          <div style="background:var(--card-bg,#f8f9fa);border:1px solid var(--border,#e0e0e0);border-radius:10px;padding:1.2rem 1.4rem;flex:1 1 280px;max-width:360px;">
+            <div style="font-weight:600;font-size:1.05rem;"><a href="https://www.iesl.forth.gr/en/people/petekidis-george" target="_blank">George Petekidis</a></div>
+            <div style="color:#666;font-size:0.88rem;margin:0.3rem 0 0.6rem;">Dept. of Material Science, University of Crete (Greece)</div>
+            <div style="display:flex;gap:0.4rem;flex-wrap:wrap;">
+              <a href="/project/Forgreensoft/" style="background:#e3f0fb;color:#1565c0;border-radius:20px;padding:2px 10px;font-size:0.8rem;text-decoration:none;">FORGreenSoft</a>
+            </div>
+          </div>
+
+          <div style="background:var(--card-bg,#f8f9fa);border:1px solid var(--border,#e0e0e0);border-radius:10px;padding:1.2rem 1.4rem;flex:1 1 280px;max-width:360px;">
+            <div style="font-weight:600;font-size:1.05rem;"><a href="https://philippecoussot.com/" target="_blank">Philippe Coussot</a></div>
+            <div style="color:#666;font-size:0.88rem;margin:0.3rem 0 0.6rem;">ENPC–Université Gustave Eiffel–CNRS (France)</div>
+          </div>
+
+          <div style="background:var(--card-bg,#f8f9fa);border:1px solid var(--border,#e0e0e0);border-radius:10px;padding:1.2rem 1.4rem;flex:1 1 280px;max-width:360px;">
+            <div style="font-weight:600;font-size:1.05rem;"><a href="https://perso.ens-lyon.fr/thomas.gibaud/" target="_blank">Thomas Gibaud</a></div>
+            <div style="color:#666;font-size:0.88rem;margin:0.3rem 0 0.6rem;">Ecole Normale Supérieure de Lyon (France)</div>
+            <div style="display:flex;gap:0.4rem;flex-wrap:wrap;">
+              <a href="/project/24-10-21-TRAINGEL/" style="background:#e3f0fb;color:#1565c0;border-radius:20px;padding:2px 10px;font-size:0.8rem;text-decoration:none;">TRAINGEL</a>
+            </div>
+          </div>
+
+          <div style="background:var(--card-bg,#f8f9fa);border:1px solid var(--border,#e0e0e0);border-radius:10px;padding:1.2rem 1.4rem;flex:1 1 280px;max-width:360px;">
+            <div style="font-weight:600;font-size:1.05rem;"><a href="https://sites.google.com/site/fredericpignon" target="_blank">Frederic Pignon</a></div>
+            <div style="color:#666;font-size:0.88rem;margin:0.3rem 0 0.6rem;">Université Grenoble Alpes, CNRS (France)</div>
+            <div style="display:flex;gap:0.4rem;flex-wrap:wrap;">
+              <a href="/project/24-10-21-TRAINGEL/" style="background:#e3f0fb;color:#1565c0;border-radius:20px;padding:2px 10px;font-size:0.8rem;text-decoration:none;">TRAINGEL</a>
+            </div>
+          </div>
+
+          <div style="background:var(--card-bg,#f8f9fa);border:1px solid var(--border,#e0e0e0);border-radius:10px;padding:1.2rem 1.4rem;flex:1 1 280px;max-width:360px;">
+            <div style="font-weight:600;font-size:1.05rem;"><a href="https://sites.google.com/view/steaime/home?authuser=0" target="_blank">Stefano Aime</a></div>
+            <div style="color:#666;font-size:0.88rem;margin:0.3rem 0 0.6rem;">ESPCI Paris (France)</div>
+            <div style="display:flex;gap:0.4rem;flex-wrap:wrap;">
+              <a href="/project/24-10-21-TRAINGEL/" style="background:#e3f0fb;color:#1565c0;border-radius:20px;padding:2px 10px;font-size:0.8rem;text-decoration:none;">TRAINGEL</a>
+            </div>
+          </div>
+
+          <div style="background:var(--card-bg,#f8f9fa);border:1px solid var(--border,#e0e0e0);border-radius:10px;padding:1.2rem 1.4rem;flex:1 1 280px;max-width:360px;">
+            <div style="font-weight:600;font-size:1.05rem;"><a href="https://comp-phys.univie.ac.at/likos/" target="_blank">Christos Likos</a></div>
+            <div style="color:#666;font-size:0.88rem;margin:0.3rem 0 0.6rem;">University of Vienna (Austria)</div>
+            <div style="display:flex;gap:0.4rem;flex-wrap:wrap;">
+              <a href="/project/24-10-21-TRAINGEL/" style="background:#e3f0fb;color:#1565c0;border-radius:20px;padding:2px 10px;font-size:0.8rem;text-decoration:none;">TRAINGEL</a>
+            </div>
+          </div>
+
+          <div style="background:var(--card-bg,#f8f9fa);border:1px solid var(--border,#e0e0e0);border-radius:10px;padding:1.2rem 1.4rem;flex:1 1 280px;max-width:360px;">
+            <div style="font-weight:600;font-size:1.05rem;"><a href="https://www.imp.ac.at/groups/diana-pinheiro" target="_blank">Diana Pinheiro</a></div>
+            <div style="color:#666;font-size:0.88rem;margin:0.3rem 0 0.6rem;">Vienna BioCenter (Austria)</div>
+            <div style="display:flex;gap:0.4rem;flex-wrap:wrap;">
+              <a href="/project/25-11-01-Mechanosynth/" style="background:#e3f0fb;color:#1565c0;border-radius:20px;padding:2px 10px;font-size:0.8rem;text-decoration:none;">MECHANOSYNTH</a>
+            </div>
+          </div>
+
+          <div style="background:var(--card-bg,#f8f9fa);border:1px solid var(--border,#e0e0e0);border-radius:10px;padding:1.2rem 1.4rem;flex:1 1 280px;max-width:360px;">
+            <div style="font-weight:600;font-size:1.05rem;"><a href="https://ist.ac.at/en/research/hannezo-group/" target="_blank">Edouard Hannezo</a></div>
+            <div style="color:#666;font-size:0.88rem;margin:0.3rem 0 0.6rem;">Institute of Science and Technology Austria (Austria)</div>
+            <div style="display:flex;gap:0.4rem;flex-wrap:wrap;">
+              <a href="/project/25-11-01-Mechanosynth/" style="background:#e3f0fb;color:#1565c0;border-radius:20px;padding:2px 10px;font-size:0.8rem;text-decoration:none;">MECHANOSYNTH</a>
+            </div>
+          </div>
+
+        </div>
     design:
       columns: '1'
-  - block: markdown
-    content:
-      title: 
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: map.png
-          filters:
-            brightness: 1
-          parallax: false
-          position: bottom
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0px', '20px', '0px']
-      css_class: fullscreen
+
 ---

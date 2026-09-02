@@ -23,7 +23,7 @@ sections:
       coordinates:
         latitude: '48.2217'
         longitude: '16.3555'
-      directions: '<a href="https://drive.google.com/file/d/1vW8MX6ZcDAj6g6ubpMXLuKtpIYvfIql7/view?usp=sharing" target="_blank">How to reach SoMeX</a>'
+      directions: <br>1. Take the Main Entrance of the Faculty of Physics (Strudlhofgasse 4, 1090).<br> 2. After entering, take the set of stairs going up on the right side of the TV screen.<br>3. Go to the 1st floor where you'll find the bust of Emperor Franz Josef.<br>4. Enter through the doors to the left of the bust. After passing through, turn left and you'll see the last door facing the corridor. That is the entrance of the SOMEX Lab. Ring the bell when you arrive. 
       office_hours:
         - 'Monday to Friday 9:00 to 17:00'
       #  - 'Wednesday 09:00 to 10:00'
@@ -52,11 +52,19 @@ sections:
     content:
       title:
       subtitle: ''
-      text: |
-        <div style="text-align:center;padding:20px 0;">
-          <img src="/media/group_2026_2.jpg" alt="Group photo"
-               style="max-width:100%;height:auto;display:block;margin:0 auto;">
-        </div>
+      text:
     design:
       columns: '1'
+      background:
+        image: 
+          filename: group2026.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
 ---
