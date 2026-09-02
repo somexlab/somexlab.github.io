@@ -5,16 +5,25 @@ date: 2024-06-01
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
-      title: |
-        Welcome to the ***So**ft **M**atter **eX**periments* Lab
-      image:
-        filename: welcome.gif
+      title:
+      subtitle: ''
       text: |
-        led by [Roberto Cerbino]({{< relref "authors/admin/_index.md" >}})!  
-        From exploring the behavior of polymers and colloids to investigating the dynamics of biological systems, we are dedicated to unraveling the complexities of ***<a style="font-weight: bold; text-decoration:none;" href="https://www.nature.com/subjects/soft-materials">Soft</a>*** materials. Whether you're a seasoned researcher or an aspiring scientist, we invite you to join us on this exciting journey of discovery.
-        {style="text-align: justify;"}
+        <div style="display:flex;align-items:flex-start;gap:3rem;flex-wrap:wrap;padding:0;">
+          <div style="flex:1;min-width:280px;">
+            <h1 style="font-size:2.2rem;line-height:1.2;margin:0 0 1rem 0;">Welcome to the <em><strong>So</strong>ft <strong>M</strong>atter e<strong>X</strong>periments</em> Lab</h1>
+            <p style="font-size:1.25rem;line-height:1.7;">led by <a href="/author/roberto-cerbino/">Roberto Cerbino</a>!<br>
+            From exploring the behavior of polymers and colloids to investigating the dynamics of biological systems, we are dedicated to unraveling the complexities of <strong><a style="font-weight:bold;text-decoration:none;" href="https://www.nature.com/subjects/soft-materials">Soft</a></strong> materials. Whether you're a seasoned researcher or an aspiring scientist, we invite you to join us on this exciting journey of discovery.</p>
+          </div>
+          <div style="flex:0 0 40%;min-width:250px;max-width:500px;">
+            <video autoplay muted loop playsinline style="width:100%;border-radius:8px;">
+              <source src="/media/welcome.webm" type="video/webm">
+            </video>
+          </div>
+        </div>
+    design:
+      columns: '1'
   
   - block: collection
     content:
