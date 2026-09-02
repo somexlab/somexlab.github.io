@@ -119,12 +119,12 @@ publications:
 
 ticker:
   items:
-    - text: "📢 Snippet: Corsica Summer School 2026"
-      url: "/post/2026/26-08-03-sensory/"
-      newtab: false
-    #- text: "🎉 Congratulations on Graduation"
-    #  url: "/post/2026/26-02-16-eva_graduation/"
-    #  newtab: true
+    - text: "📢 ÖGR Meeting: Early Bird Registration"
+      url: "/event/2026-11-20-OGR/"
+      newtab: true
+    - text: "🎉 SPARKHub certification"
+      url: "/post/2026/26-09-02-sparkhub/"
+      newtab: true
     - text: "🚨 Now member alert"
       url: "/post/2026/26-08-17-sophie_welcome/"
       newtab: false
