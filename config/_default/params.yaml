@@ -16,17 +16,17 @@ appearance:
 marketing:
   seo:
     site_type: Organization
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    local_business_type: 'CollegeOrUniversity'
+    org_name: 'SoMeX Lab – Soft Matter eXperiments, University of Vienna'
+    description: 'SoMeX is a soft matter experimental research group at the University of Vienna, Austria. We specialize in rheology, rheometry, colloidal suspensions, biophysics, and differential dynamic microscopy (DDM). Led by Roberto Cerbino.'
+    twitter: 'somexlab'
   analytics:
     google_analytics: 'G-WJFYZLECLV'
     baidu_tongji: ''
     google_tag_manager: 'G-WJFYZLECLV'
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: '81inyp-9y8VSKbC-Ivo1hJNp4rAM35jyfiarz3guCMY'
     baidu: ''
 
 # Site header
