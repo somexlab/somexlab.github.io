@@ -1,0 +1,44 @@
+<div class="share-box">
+  <ul class="network-icon" aria-hidden="true">
+
+    {{/* X / Twitter */}}
+    <li>
+      <a href="https://twitter.com/intent/tweet?url={{ .Permalink | absURL }}&text={{ .Title | urlize }}"
+         target="_blank" rel="noopener" aria-label="Share on X">
+        <i class="fab fa-x-twitter big-icon"></i>
+      </a>
+    </li>
+
+    {{/* Facebook */}}
+    <li>
+      <a href="https://www.facebook.com/sharer.php?u={{ .Permalink | absURL }}"
+         target="_blank" rel="noopener" aria-label="Share on Facebook">
+        <i class="fab fa-facebook big-icon"></i>
+      </a>
+    </li>
+
+    {{/* LinkedIn */}}
+    <li>
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink | absURL }}&title={{ .Title | urlize }}"
+         target="_blank" rel="noopener" aria-label="Share on LinkedIn">
+        <i class="fab fa-linkedin-in big-icon"></i>
+      </a>
+    </li>
+
+    {{/* WhatsApp */}}
+    <li>
+      <a href="https://api.whatsapp.com/send?text={{ .Title | urlize }}%20{{ .Permalink | absURL }}"
+         target="_blank" rel="noopener" aria-label="Share on WhatsApp">
+        <i class="fab fa-whatsapp big-icon"></i>
+      </a>
+    </li>
+
+    {{/* Reddit */}}
+    <li>
+      <a href="https://www.reddit.com/submit?url={{ .Permalink | absURL }}&title={{ .Title | urlize }}"
+         target="_blank" rel="noopener" aria-label="Share on Reddit">
+        <i class="fab fa-reddit-alien big-icon"></i>
+      </a>
+    </li>
+  </ul>
+</div>

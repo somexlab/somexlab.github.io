@@ -102,6 +102,16 @@ features:
     api_key: ''
     zoom: 15
 
+
+# Social sharing buttons
+sharing:
+  facebook: true
+  twitter: true
+  linkedin: true
+  whatsapp: true
+  weibo: false
+  email: false
+
 # Extensions
 
 extensions:

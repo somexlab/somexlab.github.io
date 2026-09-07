@@ -24,3 +24,9 @@
     grid-template-columns: repeat(2, 1fr) !important;
   }
 }
+
+// Hide unwanted share buttons
+.share-btn-email,
+.share-btn-weibo {
+  display: none !important;
+}
