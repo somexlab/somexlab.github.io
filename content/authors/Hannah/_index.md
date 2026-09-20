@@ -68,6 +68,6 @@ user_groups:
 ---
 <div style="text-align: justify;">
 
-I am a Physics Master's student at the University of Vienna. In my thesis, I work on developing and extending a method to determine the electrophoretic mobility and consequently the zeta potential of colloidal particles. My goal is to assess the potential of Differential Dynamic Microscopy (DDM) as a scalable and accurate approach for electrokinetic characterization, particularly for systems beyond the optical resolution limit. My work combines real-space particle tracking with Fourier-based analysis. The aim is to establish whether it is possible to make precise mobility measurements for smaller particles without relying exclusively on DDM.
+I am a Physics Master's student at the University of Vienna. In my thesis, I work on developing and extending a method to determine the electrophoretic mobility and consequently the zeta potential of colloidal particles. My goal is to assess the potential of microscopy as a scalable and accurate approach for electrokinetic characterization, particularly for systems beyond the optical resolution limit.
 
 </div>

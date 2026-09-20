@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {2024} Somex. This work is licensed under {license}'
+    notice: '© {2026} Somex. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -130,12 +130,15 @@ publications:
 ticker:
   items:
     - text: "📢 ÖGR Meeting: Early Bird Registration"
-      url: "/event/2026-11-20-OGR/"
+      url: "/event/2026-11-20-ogr/"
       newtab: true
     - text: "🎉 SPARKHub certification"
       url: "/post/2026/26-09-02-sparkhub/"
       newtab: true
-    - text: "🚨 Now member alert"
+    - text: "📢 VSMD Meeting: Registration open"
+      url: "/event/2026-11-20-vsmd/"
+      newtab: true
+    - text: "🚨 New member alert"
       url: "/post/2026/26-08-17-sophie_welcome/"
       newtab: false
     #- text: "📜 New preprint: ShearView"
