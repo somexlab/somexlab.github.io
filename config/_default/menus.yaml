@@ -34,3 +34,6 @@ main:
   - name: Contact
     url: contact
     weight: 90
+  - name: For Members
+    url: members
+    weight: 100

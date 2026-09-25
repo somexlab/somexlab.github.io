@@ -152,7 +152,7 @@ sections:
           </div>
         </div>
 
-        <div class="tour-grid">
+        <div class="tour-grid" id="tour-grid">
 
           <div class="tour-card" style="background-image: url('/media/tour_maxime.jpg');">
             <div class="tour-card-overlay">
@@ -172,7 +172,7 @@ sections:
             </div>
           </div>
 
-          <div class="tour-card" style="background-image: url('/media/PIV.jpg');">
+          <div class="tour-card" style="background-image: url('/media/tour_jasmin.jpg');">
             <div class="tour-card-overlay">
               <div class="tour-card-title">Structure &amp; Dynamics in Cellular Monolayers</div>
               <div class="tour-card-desc">Through particle image velocimetry (PIV) we can probe dynamical changes in cellular monolayers, their velocity correlation lengths and directional alignments and orderedness. A different perspective on cellular dynamics comes from following the trajectories of single cells within a monolayer, which provides the general quantity mean square displacement (MSD) and its scaling behaviour over time.</div>
