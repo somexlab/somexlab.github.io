@@ -173,7 +173,7 @@ sections:
             <p class="somex-hero-lead">led by <a href="/author/roberto-cerbino/">Roberto Cerbino</a>.<br>
             From exploring the behavior of polymers and colloids to investigating the dynamics of biological systems, we are dedicated to unraveling the complexities of <a href="https://www.nature.com/subjects/soft-materials">Soft</a> materials.</p>
             <div class="somex-hero-buttons">
-              <a href="/project/" class="somex-btn-dark">Explore research</a>
+              <a href="/tour/" class="somex-btn-dark">Explore research</a>
               <a href="/people/" class="somex-btn-outline">Meet the team</a>
             </div>
             <div class="somex-hero-tags">
@@ -186,9 +186,9 @@ sections:
 
           <div class="somex-hero-right">
             <div class="hero-track" id="hero-track">
-              <div class="hero-track-slide" style="background-image:url('/media/welcome1.png')"><div class="hero-cap">Jamming in Cellular Monolayers <span class="hero-cap-dot">·</span> Phase contrast image of a cellular monolayer of MCF10A captured at 20X</div></div>
-              <div class="hero-track-slide" style="background-image:url('/media/welcome2.png')"><div class="hero-cap">ShearView rheometer <span class="hero-cap-dot">·</span> A viscoelastic sample is loaded between the rough glass slides of the rheometer.</div></div>
-              <div class="hero-track-slide" style="background-image:url('/media/welcome3.png')"><div class="hero-cap">Rheo-Imaging <span class="hero-cap-dot">·</span> Rheo-microscopy measurement performed in brightfield conditions.</div></div>
+              <div class="hero-track-slide" style="background-image:url('/media/welcome1.png')"><div class="hero-cap">Jamming in cellular monolayers · Phase contrast image of a cellular monolayer of MCF10A captured at 10X</div></div>
+              <div class="hero-track-slide" style="background-image:url('/media/welcome2.png')"><div class="hero-cap">ShearView rheometer · A viscoelastic sample is loaded between the rough glass slides of the rheometer.</div></div>
+              <div class="hero-track-slide" style="background-image:url('/media/welcome3.png')"><div class="hero-cap">Rheo-Imaging · Rheo-microscopy measurement performed in brightfield conditions.</div></div>
             </div>
             <div class="hero-dots" id="hero-dots">
               <button class="hero-dot active" data-i="0" aria-label="Slide 1"></button>

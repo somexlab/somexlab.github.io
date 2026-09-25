@@ -25,6 +25,13 @@ url_slides: ''
 url_video: ''
 ---
 
+<style>
+.pub-card { background:#f8f9fa; border:1px solid #e0e0e0; }
+body.dark .pub-card { background:#282a36; border-color:#44475a; }
+body.dark .pub-card a { color:#8fc4ff; }
+body.dark .pub-card span { color:#c7c9d1; }
+</style>
+
 <div style="border-left:4px solid #1565c0;padding-left:1.2rem;margin-bottom:2rem;">
   <div style="display:flex;align-items:center;gap:0.8rem;margin-bottom:0.6rem;">
     <span style="display:inline-flex;align-items:center;gap:0.35rem;background:#f8d7da;color:#721c24;font-size:0.75rem;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;border-radius:20px;padding:3px 12px;"><span style="width:7px;height:7px;border-radius:50%;background:#dc3545;display:inline-block;"></span>Closed</span>
@@ -64,28 +71,28 @@ In parallel, FORGREENSOFT aims at enhancing the networking activities of FORTH a
 ## Publications
 
 <div style="margin-top:0.8rem;">
-  <div style="display:flex;align-items:flex-start;gap:0.8rem;padding:0.9rem 1.2rem;border-radius:8px;background:var(--card-bg,#f8f9fa);border:1px solid var(--border,#e0e0e0);">
+  <div class="pub-card" style="display:flex;align-items:flex-start;gap:0.8rem;padding:0.9rem 1.2rem;border-radius:8px;">
     <span style="font-size:1rem;margin-top:0.1rem;">📄</span>
     <div style="line-height:1.6;">
       <a href="https://pubs.aip.org/sor/jor/article/70/1/165/3375921/ShearView-A-compact-stress-and-strain-controlled" target="_blank" style="font-weight:600;">ShearView: A compact stress- and strain-controlled linear rheometer for integrated rheomicroscopy</a><br>
       <span style="font-size:0.85rem;color:#888;"><em>Journal of Rheology</em>, 2026</span>
     </div>
   </div>
-  <div style="display:flex;align-items:flex-start;gap:0.8rem;padding:0.9rem 1.2rem;border-radius:8px;background:var(--card-bg,#f8f9fa);border:1px solid var(--border,#e0e0e0);">
+  <div class="pub-card" style="display:flex;align-items:flex-start;gap:0.8rem;padding:0.9rem 1.2rem;border-radius:8px;">
     <span style="font-size:1rem;margin-top:0.1rem;">📄</span>
     <div style="line-height:1.6;">
       <a href="https://pubs.aip.org/aip/jcp/article/163/18/184901/3372508/Locally-tuned-hydrodynamics-of-active-polymer" target="_blank" style="font-weight:600;">Locally tuned hydrodynamics of active polymer chains</a><br>
       <span style="font-size:0.85rem;color:#888;"><em>Journal of Chemical Physics</em>, 2025</span>
     </div>
   </div>
-  <div style="display:flex;align-items:flex-start;gap:0.8rem;padding:0.9rem 1.2rem;border-radius:8px;background:var(--card-bg,#f8f9fa);border:1px solid var(--border,#e0e0e0);">
+  <div class="pub-card" style="display:flex;align-items:flex-start;gap:0.8rem;padding:0.9rem 1.2rem;border-radius:8px;">
     <span style="font-size:1rem;margin-top:0.1rem;">📄</span>
     <div style="line-height:1.6;">
       <a href="https://pubs.acs.org/mamobx/article/57/24/11534/213945/Polymer-Thermophoresis-by-Mesoscale-Simulations" target="_blank" style="font-weight:600;">Polymer Thermophoresis by Mesoscale Simulations</a><br>
       <span style="font-size:0.85rem;color:#888;"><em>Macromolecules</em>, 2024</span>
     </div>
   </div>
-  <div style="display:flex;align-items:flex-start;gap:0.8rem;padding:0.9rem 1.2rem;border-radius:8px;background:var(--card-bg,#f8f9fa);border:1px solid var(--border,#e0e0e0);">
+  <div class="pub-card" style="display:flex;align-items:flex-start;gap:0.8rem;padding:0.9rem 1.2rem;border-radius:8px;">
     <span style="font-size:1rem;margin-top:0.1rem;">📄</span>
     <div style="line-height:1.6;">
       <a href="https://arxiv.org/abs/2402.00221" target="_blank" style="font-weight:600;">Preprint: Yielding under the microscope: a multi-scale perspective on brittle and ductile behaviors in oscillatory shear</a><br>
