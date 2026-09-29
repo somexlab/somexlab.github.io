@@ -3,7 +3,7 @@ title: Now hiring! - 1 PhD
 summary: <span style="color:#4284EB;">Read more</span>
 authors:
 #  - Mohandas
-date: 2026-04-29
+date: 2026-09-25
 image:
   focal_point: 'center'
 # Show this page in the Featured widget?
@@ -36,9 +36,9 @@ The candidate shall pick one of our research lines (e.g., rheology, advanced mic
 
 ---
 
-📅**Deadline for applications:** 19.07.2026\
-📅**Starting date:** > 01.09.2026\
-🔔**Status:** Closed
+📅**Deadline for applications:** 16.10.2026\
+📅**Starting date:** To be decided\
+🔔**Status:** Open
 
 ---
 
