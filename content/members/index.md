@@ -207,7 +207,7 @@ sections:
             netlifyIdentity.on('error', function(err){ console.error('Netlify Identity error:', err); });
             loginBtn.addEventListener('click', function(){ netlifyIdentity.open('login'); });
             logoutBtn.addEventListener('click', function(){ netlifyIdentity.logout(); });
-            netlifyIdentity.init();
+            netlifyIdentity.init({ APIUrl: 'https://somex-login.netlify.app/.netlify/identity' });
             if (window.location.hash && (window.location.hash.indexOf('invite_token') > -1 || window.location.hash.indexOf('recovery_token') > -1)) {
               netlifyIdentity.open();
             }

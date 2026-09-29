@@ -132,15 +132,18 @@ ticker:
     - text: "📢 ÖGR Meeting: Early Bird Registration"
       url: "/event/2026-11-20-ogr/"
       newtab: true
-    - text: "🎉 SPARKHub certification"
-      url: "/post/2026/26-09-02-sparkhub/"
-      newtab: true
     - text: "📢 VSMD Meeting: Registration open"
       url: "/event/2026-11-20-vsmd/"
       newtab: true
-    - text: "🚨 New member alert"
-      url: "/post/2026/26-08-17-sophie_welcome/"
-      newtab: false
+    - text: "📢 PhD position: Application re-opened"
+      url: "/post/2026/26-09-25-job-ad/"
+      newtab: true
+    - text: "🎉 SPARKHub certification"
+      url: "/post/2026/26-09-02-sparkhub/"
+      newtab: true
+#    - text: "🚨 New member alert"
+#      url: "/post/2026/26-08-17-sophie_welcome/"
+#      newtab: false
     #- text: "📜 New preprint: ShearView"
     #  url: "https://arxiv.org/abs/2508.08951"
     #  newtab: true
