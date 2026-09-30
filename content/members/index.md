@@ -149,6 +149,7 @@ sections:
         <h3 style="text-align:center;">Internal Resources</h3>
         <div class="members-resources-grid">
         <a class="members-res-card" href="https://launchpad.37signals.com/signin" target="_blank">
+        <img class="members-res-icon" src="/media/icon-basecamp.svg" alt="">        
         <div class="members-res-title">Access Basecamp</div>
         <div class="members-res-desc">Use this link to login to your Basecamp account.</div>
         </a>
@@ -163,7 +164,7 @@ sections:
         <div class="members-res-desc">Under construction.</div>
         </a>
         <a class="members-res-card" href="https://wiki.univie.ac.at/spaces/OE/overview" target="_blank">
-        <img class="members-res-icon" src="/media/icon-wiki.svg" alt="">
+        <img class="members-res-icon" src="/media/icon-univie.png" alt="">
         <div class="members-res-title">University of Vienna Wiki</div>
         <div class="members-res-desc">Intranet link of the University of Vienna where members can find important information.</div>
         </a>
@@ -171,6 +172,11 @@ sections:
         <img class="members-res-icon" src="/media/icon-moodle.svg" alt="">
         <div class="members-res-title">Moodle</div>
         <div class="members-res-desc">Use this link to access the Moodle - E-Learning platform.</div>
+        </a>
+        <a class="members-res-card" href="https://www.app.labsuit.com/login/" target="_blank">
+        <img class="members-res-icon" src="/media/icon-labsuit.png" alt="">
+        <div class="members-res-title">LabSuit</div>
+        <div class="members-res-desc">Use this link to access the LabSuit online inventory.</div>
         </a>
         </div>
         </div>
