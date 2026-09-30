@@ -58,7 +58,7 @@ sections:
           <div class="collab-card">
             <div class="collab-photo-col">
               <img src="/media/collaborator/fabio-giavazzi.png" alt="Fabio Giavazzi">
-              <a class="collab-credit" href="#" target="_blank">© source</a>
+              <a class="collab-credit" href="#" target="_blank">© unimil.it</a>
             </div>
             <div class="collab-info">
               <div class="collab-name"><a href="https://www.unimi.it/en/ugov/person/fabio-giavazzi" target="_blank">Fabio Giavazzi</a></div>
@@ -69,7 +69,7 @@ sections:
           <div class="collab-card">
             <div class="collab-photo-col">
               <img src="/media/collaborator/giorgio-scita.jpg" alt="Giorgio Scita">
-              <a class="collab-credit" href="#" target="_blank">© source</a>
+              <a class="collab-credit" href="#" target="_blank">© ifom.eu</a>
             </div>
             <div class="collab-info">
               <div class="collab-name"><a href="https://www.ifom.eu/en/cancer-research/researchers/giorgio-scita.php" target="_blank">Giorgio Scita</a></div>
@@ -80,7 +80,7 @@ sections:
           <div class="collab-card">
             <div class="collab-photo-col">
               <img src="/media/collaborator/francesco-sciortino.png" alt="Francesco Sciortino">
-              <a class="collab-credit" href="#" target="_blank">© source</a>
+              <a class="collab-credit" href="#" target="_blank">© wikipedia.org</a>
             </div>
             <div class="collab-info">
               <div class="collab-name"><a href="https://www.roma1.infn.it/~sciortif/curriculum.htm" target="_blank">Francesco Sciortino</a></div>
@@ -91,7 +91,7 @@ sections:
           <div class="collab-card">
             <div class="collab-photo-col">
               <img src="/media/collaborator/george-petekidis.jpg" alt="George Petekidis">
-              <a class="collab-credit" href="#" target="_blank">© source</a>
+              <a class="collab-credit" href="#" target="_blank">© iesl.forth.gr</a>
             </div>
             <div class="collab-info">
               <div class="collab-name"><a href="https://www.iesl.forth.gr/en/people/petekidis-george" target="_blank">George Petekidis</a></div>
@@ -105,7 +105,7 @@ sections:
           <div class="collab-card">
             <div class="collab-photo-col">
               <img src="/media/collaborator/philippe-coussot.jpg" alt="Philippe Coussot">
-              <a class="collab-credit" href="#" target="_blank">© source</a>
+              <a class="collab-credit" href="#" target="_blank">© philippecoussot.com</a>
             </div>
             <div class="collab-info">
               <div class="collab-name"><a href="https://philippecoussot.com/" target="_blank">Philippe Coussot</a></div>
@@ -116,7 +116,7 @@ sections:
           <div class="collab-card">
             <div class="collab-photo-col">
               <img src="/media/collaborator/thomas-gibaud.jpg" alt="Thomas Gibaud">
-              <a class="collab-credit" href="#" target="_blank">© source</a>
+              <a class="collab-credit" href="#" target="_blank">© ens-lyon.fr</a>
             </div>
             <div class="collab-info">
               <div class="collab-name"><a href="https://perso.ens-lyon.fr/thomas.gibaud/" target="_blank">Thomas Gibaud</a></div>
@@ -144,7 +144,7 @@ sections:
           <div class="collab-card">
             <div class="collab-photo-col">
               <img src="/media/collaborator/stefano-aime.jpg" alt="Stefano Aime">
-              <a class="collab-credit" href="#" target="_blank">© source</a>
+              <a class="collab-credit" href="#" target="_blank">© la-croix.com</a>
             </div>
             <div class="collab-info">
               <div class="collab-name"><a href="https://sites.google.com/view/steaime/home?authuser=0" target="_blank">Stefano Aime</a></div>
@@ -158,7 +158,7 @@ sections:
           <div class="collab-card">
             <div class="collab-photo-col">
               <img src="/media/collaborator/christos-likos.jpg" alt="Christos Likos">
-              <a class="collab-credit" href="#" target="_blank">© source</a>
+              <a class="collab-credit" href="#" target="_blank">© univie.ac.at</a>
             </div>
             <div class="collab-info">
               <div class="collab-name"><a href="https://comp-phys.univie.ac.at/likos/" target="_blank">Christos Likos</a></div>
@@ -172,7 +172,7 @@ sections:
           <div class="collab-card">
             <div class="collab-photo-col">
               <img src="/media/collaborator/diana-pinheiro.jpg" alt="Diana Pinheiro">
-              <a class="collab-credit" href="#" target="_blank">© source</a>
+              <a class="collab-credit" href="#" target="_blank">© imp.ac.at</a>
             </div>
             <div class="collab-info">
               <div class="collab-name"><a href="https://www.imp.ac.at/groups/diana-pinheiro" target="_blank">Diana Pinheiro</a></div>
@@ -186,7 +186,7 @@ sections:
           <div class="collab-card">
             <div class="collab-photo-col">
               <img src="/media/collaborator/edward-channezo.jpg" alt="Edouard Hannezo">
-              <a class="collab-credit" href="#" target="_blank">© source</a>
+              <a class="collab-credit" href="#" target="_blank">© ist.ac.at</a>
             </div>
             <div class="collab-info">
               <div class="collab-name"><a href="https://ist.ac.at/en/research/hannezo-group/" target="_blank">Edouard Hannezo</a></div>

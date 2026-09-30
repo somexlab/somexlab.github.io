@@ -33,7 +33,7 @@ education:
   courses:
     - course: BSc in Physics 
       institution: University of Vienna
-      year: 2025
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
