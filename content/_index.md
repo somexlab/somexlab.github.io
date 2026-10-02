@@ -24,8 +24,9 @@ sections:
           display: flex;
           flex-direction: column;
           justify-content: center;
-          background: var(--body-bg, #fff);
+          background: #fff;
         }
+        body.dark .somex-hero-left { background: #282a36; }
         .somex-hero-label {
           font-size: 0.72rem;
           font-weight: 700;
@@ -41,6 +42,7 @@ sections:
           margin: 0 0 1.1rem 0;
           color: inherit;
         }
+        body.dark .somex-hero-title { color: #f8f8f2; }
         .somex-hero-title em {
           font-style: italic;
           color: #1565c0;
@@ -53,6 +55,8 @@ sections:
           max-width: 480px;
         }
         .somex-hero-lead a { color: #1565c0; }
+        body.dark .somex-hero-lead { color: #c7c9d1; }
+        body.dark .somex-hero-lead a { color: #6fb3f5; }
         .somex-hero-buttons {
           display: flex;
           gap: 0.9rem;
@@ -85,6 +89,8 @@ sections:
           display: inline-block;
         }
         .somex-btn-outline:hover { background: #1a2744; color: #fff !important; }
+        body.dark .somex-btn-outline { color: #8fd0e0 !important; border-color: #8fd0e0; }
+        body.dark .somex-btn-outline:hover { background: #8fd0e0; color: #1a2744 !important; }
         .somex-hero-tags { display: flex; flex-wrap: wrap; gap: 0.45rem; }
         .somex-hero-tag {
           padding: 0.22rem 0.75rem;
@@ -94,6 +100,7 @@ sections:
           color: #666;
           background: transparent;
         }
+        body.dark .somex-hero-tag { border-color: #44475a; color: #c7c9d1; }
         .somex-hero-right {
           flex: 0 0 55%;
           min-width: 300px;

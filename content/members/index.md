@@ -116,6 +116,7 @@ sections:
         .members-res-icon {
           width: 32px;
           height: 32px;
+          object-fit: contain;
           margin-bottom: 0.6rem;
         }
         body.dark .members-res-card { background: #282a36; border-color: #44475a; }
