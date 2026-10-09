@@ -2,7 +2,8 @@
 title: Congratulations on a Successful Thesis Defense!
 summary: Fabian defends his Master's thesis
 authors:
-#  - Mohandas
+  - admin
+  - Fabian
 date: 2025-06-05
 image:
   placement: 1

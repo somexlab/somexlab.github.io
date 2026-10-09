@@ -2,7 +2,8 @@
 title: Somex at ÖGR Meeting 2025
 summary: Eva shared her latest insights with the Austrian Society of Rheology.
 authors:
-#  - Mohandas
+  - admin
+  - Eva
 date: 2025-11-18
 image:
   placement: 1

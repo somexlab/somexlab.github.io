@@ -2,7 +2,8 @@
 title: New preprint alert!
 summary: Introducing ShearView – a compact, open-source rheometer.
 authors:
-#  - Mohandas
+  - admin
+  - Nikos
 date: 2025-08-12
 image:
   placement: 1

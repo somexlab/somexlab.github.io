@@ -2,7 +2,8 @@
 title: 🎉 Congratulations on a Successful Thesis Defense!
 summary: Eva defends her Master's thesis
 authors:
-#  - Mohandas
+  - admin
+  - Eva
 date: 2026-02-16
 image:
   placement: 1

@@ -7,7 +7,7 @@ tags:
 date: '2026-04-01T00:00:00Z'
 authors:
   - Admin
-  - Maxime
+  - Vincenzo
 
 keywords: ["soft matter", "differential dynamic microscopy", "colloids", "sedimentation", "microgravity"]
 
@@ -52,12 +52,12 @@ The expected outcomes include new theoretical and experimental insights into non
 
 <div style="margin-top:0.8rem;line-height:2;">
   <div><a href="/author/roberto-cerbino/" style="font-weight:600;">Roberto Cerbino</a> <span style="color:#888;font-size:0.9rem;">— Principal Investigator</span></div>
-  <div><a href="/author/maxime-lavaud/" style="font-weight:600;">Maxime</a> <span style="color:#888;font-size:0.9rem;">— Postdoctoral Researcher</span></div>
+  <div><a href="/author/vincenzo-ruzzi/" style="font-weight:600;">Vincenzo</a> <span style="color:#888;font-size:0.9rem;">— Postdoctoral Researcher</span></div>
 </div>
 
 <div style="margin-top:2rem;display:flex;align-items:flex-start;gap:1rem;padding:1rem 1.4rem;border-radius:8px;background:linear-gradient(135deg,#e8f4fd,#f0f7ff);border:1px solid #c5dff5;">
   <span style="font-size:1.2rem;line-height:1.6;">💬</span>
   <div style="font-size:0.9rem;line-height:1.6;color:#333;">
-    Interested in this project? Contact our Postdoc <a href="/author/maxime-lavaud/" style="font-weight:600;">Maxime Lavaud</a> for more details.
+    Interested in this project? Contact our Postdoc <a href="/author/vincenzo-ruzzi/" style="font-weight:600;">Vincenzo Ruzzi</a> for more details.
   </div>
 </div>

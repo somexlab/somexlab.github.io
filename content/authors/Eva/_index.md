@@ -33,7 +33,7 @@ education:
   courses:
     - course: MSc in Physics
       institution: University of Zagreb (Croatia)
-      year: 2025
+      year: 2026
   #  - course: BSc in Chemistry
   #    institution: University of Bari Aldo Moro (Italy)
   #    year: 2018

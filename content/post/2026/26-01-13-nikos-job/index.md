@@ -2,7 +2,8 @@
 title: Congratulations, Nikolaos! 🎉
 summary: Wishing you success in your new role.
 authors:
-#  - Mohandas
+  - admin
+  - Nikos
 date: 2026-01-13
 image:
   focal_point: 'smart'

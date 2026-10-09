@@ -2,7 +2,9 @@
 title: Student Poster Presentations at the ÖPG–SPG Joint Conference
 summary: One of them wins best poster award 🎉!
 authors:
-#  - Mohandas
+  - Jasmin
+  - Sakshi
+  - Eva
 date: 2025-08-21
 image:
   placement: 1
