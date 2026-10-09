@@ -2,7 +2,8 @@
 title: Congratulations to Eva on Receiving the Dean’s Award!
 summary: Our Master's student received a prestigious award
 authors:
-#  - Mohandas
+  - admin
+  - Eva
 date: 2025-06-13
 image:
   placement: 1

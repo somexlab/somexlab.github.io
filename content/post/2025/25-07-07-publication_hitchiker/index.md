@@ -2,7 +2,9 @@
 title: New tutorial alert!
 summary: An interesting tutorial on DDM submitted to arXiv.
 authors:
-#  - Mohandas
+  - admin
+  - Enrico
+  - Maxime
 date: 2025-07-07
 image:
   placement: 1

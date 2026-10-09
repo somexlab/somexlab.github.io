@@ -46,9 +46,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:remi.pinchede@univie.ac.at'
-  - icon: linkedin
-    icon_pack: fab
-    link: ''
+  #- icon: linkedin
+  #  icon_pack: fab
+  #  link: ''
   #- icon: google-scholar
   #  icon_pack: ai
   #  link: https://scholar.google.com/citations?user=FcPIaxgAAAAJ&hl=en&oi=ao

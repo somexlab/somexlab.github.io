@@ -2,7 +2,10 @@
 title: Members in Action-Conferences & Workshops🚀
 summary: It’s conference season, and Somex Lab members are on the move—sharing their work and connecting with researchers around the world.
 authors:
-#  - Mohandas
+  - admin
+  - Maxime
+  - Sakshi
+  - Jasmin
 date: 2025-09-18
 image:
   placement: 1

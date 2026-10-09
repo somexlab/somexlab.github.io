@@ -20,6 +20,7 @@ sections:
           - Alumni
           - Interns
           - Past Visitors
+          - Past Interns
       sort_by: Params.role
       sort_ascending: false
     design:

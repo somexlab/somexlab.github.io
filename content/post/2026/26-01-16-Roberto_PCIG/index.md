@@ -2,7 +2,7 @@
 title: 📢 Roberto joins PCIG!
 summary: PCIG brings together experts who work the field of Particle Characterisation. <span style="color:#4284EB;">Read more</span>.
 authors:
-#  - Mohandas
+  - admin
 date: 2026-01-16
 image:
   placement: 1
