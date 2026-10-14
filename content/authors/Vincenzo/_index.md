@@ -71,7 +71,7 @@ user_groups:
 ---
 <div style="text-align: justify;">
 
-I am an experimental soft matter physicist specialised in scattering techniques for the investigation of structural and dynamical properties of soft materials. Since October 2026, I have joined the SoMeX Lab as a postdoc, working with [Roberto]({{< relref "/authors/admin/_index.md" >}}) on the microgravity project [NEFCoEG](({{< relref "/project/26-04-01-NEFCoEG/index.md" >}})) (ESA project on Sedimenting Colloids) funded by FFG.
+I am an experimental soft matter physicist specialised in scattering techniques for the investigation of structural and dynamical properties of soft materials. Since October 2026, I have joined the SoMeX Lab as a postdoc, working with [Roberto]({{< relref "/authors/admin/_index.md" >}}) on the microgravity project [NEFCoEG]({{< relref "/project/26-04-01-NEFCoEG/index.md" >}}) (ESA project on Sedimenting Colloids) funded by FFG.
 
 During my PhD at the Soft Matter Lab in [Politecnico di Milano](https://www.polimi.it/en/), supervised by [Roberto Piazza](https://www.cmic.polimi.it/persone/docenti-e-ricercatori/piazza-roberto/), I investigated colloidal crystallization induced by thermal gradients using optical microscopy, and microscopic dynamics and microrheology of biologically relevant gels with advanced light scattering methods. 
 

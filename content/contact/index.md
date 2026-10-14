@@ -23,7 +23,7 @@ sections:
       coordinates:
         latitude: '48.2217'
         longitude: '16.3555'
-      directions: '<a href="https://drive.google.com/file/d/1vW8MX6ZcDAj6g6ubpMXLuKtpIYvfIql7/view?usp=sharing" target="_blank">How to reach SoMeX</a>'
+      directions: '<a href="/directions/">How to reach SoMeX</a>'
       office_hours:
         - 'Monday to Friday 9:00 to 17:00'
       #  - 'Wednesday 09:00 to 10:00'

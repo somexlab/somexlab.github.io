@@ -129,9 +129,9 @@ publications:
 
 ticker:
   items:
-    - text: "📢 ÖGR Meeting: Early Bird Registration"
-      url: "/event/2026-11-20-ogr/"
-      newtab: true
+    #- text: "📢 ÖGR Meeting: Early Bird Registration"
+    #  url: "/event/2026-11-20-ogr/"
+    #  newtab: true
     - text: "📢 VSMD Meeting: Registration open"
       url: "/event/2026-11-20-vsmd/"
       newtab: true
