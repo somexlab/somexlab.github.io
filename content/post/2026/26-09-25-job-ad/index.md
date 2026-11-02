@@ -38,7 +38,7 @@ The candidate shall pick one of our research lines (e.g., rheology, advanced mic
 
 📅**Deadline for applications:** 16.10.2026\
 📅**Starting date:** To be decided\
-🔔**Status:** Open
+🔔**Status:** <span style="color:#F4320B;">Under review</span>
 
 ---
 
