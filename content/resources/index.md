@@ -32,6 +32,16 @@ sections:
             <span style="font-size:0.9rem;color:gray;text-align:center;">3D-printable lab equipment, mounts, and experimental setups.</span>
           </a>
 
+          <a href="https://rcerbino.github.io/ddm/" target="_blank" rel="noopener noreferrer"
+             style="display:flex;flex-direction:column;align-items:center;padding:2rem 1.5rem;border-radius:12px;border:1px solid rgba(128,128,128,0.25);text-decoration:none;transition:box-shadow 0.2s;box-shadow:0 2px 8px rgba(0,0,0,0.06);"
+             onmouseover="this.style.boxShadow='0 6px 20px rgba(0,0,0,0.12)'"
+             onmouseout="this.style.boxShadow='0 2px 8px rgba(0,0,0,0.06)'">
+            <img src="/img/ddm.svg"
+                 alt="Discover DDM" style="width:64px;height:64px;margin-bottom:1rem;border-radius:8px;object-fit:contain;">
+            <strong style="font-size:1.1rem;margin-bottom:0.4rem;">Discover DDM</strong>
+            <span style="font-size:0.9rem;color:gray;text-align:center;">An interactive tool for simulating and exploring Differential Dynamic Microscopy (DDM) experiments.</span>
+          </a>
+
         </div>
     design:
       columns: '1'

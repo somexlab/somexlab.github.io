@@ -212,7 +212,7 @@ sections:
             <div class="tour-card-overlay">
               <div class="tour-card-title">AI-Enhanced DDM</div>
               <div class="tour-card-desc">We develop computational methods and machine-learning approaches for Differential Dynamic Microscopy (DDM) data analysis, enabling robust reconstruction of heterogeneous microscopic dynamics from complex dynamical signals.</div>
-              <div class="tour-card-contact">Contact: <a href="/author/alejandro-cobo/">A. Cobo</a></div>
+              <div class="tour-card-contact">Contact: <a href="/author/maxime-lavaud/">M. Lavaud</a></div>
               <div class="tour-card-hint">Click to expand</div>
             </div>
           </div>
@@ -227,6 +227,15 @@ sections:
             </div>
           </div>
 
+          <div class="tour-card" style="background-image: url('/media/tour_vincenzo.png');">
+            <div class="tour-card-overlay">
+              <div class="tour-card-title">Fluctuations in Colloidal Sedimentation</div>
+              <div class="tour-card-desc">To gain insights into concentration and velocity fluctuations in settling suspensions, we investigate colloidal sedimentation using Differential Dynamic Microscopy. This study also contributes to the development of custom-designed sample environments for ESA space missions, where fluctuations will be studied under controlled artificial-gravity conditions.
+              </div>
+              <div class="tour-card-contact">Contact: <a href="/author/vincenzo-ruzzi/">V. Ruzzi</a></div>
+              <div class="tour-card-hint">Click to expand</div>
+            </div>
+          </div>
         </div>
 
         <script>
