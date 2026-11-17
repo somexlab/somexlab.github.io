@@ -129,12 +129,11 @@ publications:
 
 ticker:
   items:
-    #- text: "📢 ÖGR Meeting: Early Bird Registration"
-    #  url: "/event/2026-11-20-ogr/"
-    #  newtab: true
-    #- text: "📢 VSMD Meeting: Registration open"
-    #  url: "/event/2026-11-20-vsmd/"
-    #  newtab: true
+    - text: "🔬 Discover DDM: Interactive tutorial"
+      url: "/resources/"
+      newtab: true
+    - text: "🎉 AWS PoC Award"
+      url: "/post/2026/26-11-11-maxime_aws_grant/"
     - text: "📢 PhD position: Application under review"
       url: "/post/2026/26-09-25-job-ad/"
       newtab: true
